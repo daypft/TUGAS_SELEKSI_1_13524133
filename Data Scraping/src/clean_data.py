@@ -1,4 +1,5 @@
-from datetime import date
+from datetime import datetime
+import json
 import os
 
 import pandas as pd
@@ -14,11 +15,21 @@ news = pd.read_csv("Data Scraping/data/csv/news_schedules_raw.csv", dtype="strin
 
 all_data = [channels, schedules, details, sports, movies, family, news]
 empty_values = ["", "-", "N/A", "n/a", "NA", "na", "None", "none", "NULL", "null"]
+raw_schedule_count = len(schedules)
 
 for dataframe in all_data:
     for column in dataframe.columns:
         dataframe[column] = dataframe[column].str.strip().str.replace(r"\s+", " ", regex=True)
         dataframe[column] = dataframe[column].replace(empty_values, pd.NA)
+
+invalid_time_count = (
+    pd.to_datetime(schedules["start_time_raw"], format="%I:%M %p", errors="coerce").isna()
+    | pd.to_datetime(schedules["end_time_raw"], format="%I:%M %p", errors="coerce").isna()
+).sum()
+
+channels["channel_key"] = channels["channel_name"].str.casefold()
+schedules["channel_key"] = schedules["channel_name"].str.casefold()
+unmatched_channel_count = (~schedules["channel_key"].isin(channels["channel_key"])).sum()
 
 schedules = schedules.dropna(
     subset=["channel_name", "program_title", "start_time_raw", "end_time_raw"]
@@ -36,7 +47,16 @@ for dataframe in schedule_data:
     ).dt.strftime("%H:%M:%S")
 
 schedules = schedules.dropna(subset=["start_time", "end_time"]).copy()
-schedules["broadcast_date"] = date.today().isoformat()
+
+if os.path.exists("Data Scraping/data/raw/scrape_metadata.json"):
+    with open("Data Scraping/data/raw/scrape_metadata.json", "r", encoding="utf-8") as f:
+        broadcast_date = json.load(f)["broadcast_date"]
+else:
+    broadcast_date = datetime.fromtimestamp(
+        os.path.getmtime("Data Scraping/data/csv/schedules_raw.csv")
+    ).date().isoformat()
+
+schedules["broadcast_date"] = broadcast_date
 schedules = schedules.drop_duplicates(
     subset=["channel_key", "broadcast_date", "start_time"]
 ).copy()
@@ -142,3 +162,10 @@ schedules[
         "start_time", "end_time", "is_live", "is_new",
     ]
 ].to_csv("Data Scraping/data/cleaned/broadcast_schedules.csv", index=False, na_rep="")
+
+print(f"Raw schedules: {raw_schedule_count}")
+print(f"Invalid time: {invalid_time_count}")
+print(f"Unmatched channel: {unmatched_channel_count}")
+print(f"Loaded schedules: {len(schedules)}")
+print(f"Broadcast date: {broadcast_date}")
+print("Catatan: satu baris dapat masuk ke lebih dari satu kategori invalid.")
