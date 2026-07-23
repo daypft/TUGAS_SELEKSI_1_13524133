@@ -65,10 +65,10 @@ GROUP BY c.call_sign
 ORDER BY c.call_sign;
 
 
-Penjelasan
-1. EXISTS menggunakan Semi-Join. database akan mengecek tabel referensi dan langsung berhenti begitu menemukan satu kecocokan pertama. 
-Sebaliknya, JOIN akan mencari dan menggabungkan seluruh kecocokan yang ada.
+-- Penjelasan
+-- 1. EXISTS menggunakan Semi-Join. database akan mengecek tabel referensi dan langsung berhenti begitu menemukan satu kecocokan pertama. 
+-- Sebaliknya, JOIN akan mencari dan menggabungkan seluruh kecocokan yang ada.
 
-2. penggunaan LEFT JOIN jauh lebih efisien daripada Subquery karena database memproses data secara massal sekaligus
+-- 2. penggunaan LEFT JOIN jauh lebih efisien daripada Subquery karena database memproses data secara massal sekaligus
 
-3.penggunaan key (20260723) langsung pada fact table mengeliminasi kebutuhan JOIN yang berat ke tabel dimensi waktu.
+-- 3.penggunaan key (20260723) langsung pada fact table mengeliminasi kebutuhan JOIN yang berat ke tabel dimensi waktu.
