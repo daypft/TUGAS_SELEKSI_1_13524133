@@ -19,6 +19,7 @@ TIME_PATTERN = re.compile(r"(\d{1,2}:\d{2}\s*[AP]M)\s*-\s*(\d{1,2}:\d{2}\s*[AP]M
 driver = webdriver.Chrome()
 driver.get(SOURCE_URL)
 
+# Lanjutkan setelah klik tombol News
 WebDriverWait(driver, 20).until(
     EC.presence_of_all_elements_located((By.CSS_SELECTOR, BUTTON_SELECTOR))
 )

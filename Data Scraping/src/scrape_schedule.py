@@ -23,6 +23,7 @@ rows = WebDriverWait(driver, 20).until(
     EC.presence_of_all_elements_located((By.CSS_SELECTOR, ROW_SELECTOR))
 )
 
+#jadwal dan penanda live/new per channel
 schedules = []
 
 for channel_order, row in enumerate(rows, start=1):

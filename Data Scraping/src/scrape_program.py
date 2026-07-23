@@ -46,6 +46,7 @@ for channel_index in range(total_channels):
             By.CSS_SELECTOR, ".c-tvListingsProgram_title"
         ).text.strip()
 
+        # Scroll dan klik kartu
         driver.execute_script(
             "arguments[0].scrollIntoView({block: 'center'});", program
         )
@@ -54,15 +55,16 @@ for channel_index in range(total_channels):
         detail_elements = driver.find_elements(By.CSS_SELECTOR, DETAIL_SELECTOR)
 
         if not detail_elements:
-            print(f"Detail tidak tersedia: {channel_name} - {program_title}")
+            print(f"Selesai diproses: {channel_name} - {program_title}")
             continue
 
+        # Parse panel detail untuk mengambil metadata, episode, genre, dan synopsis
         soup = BeautifulSoup(driver.page_source, "html.parser")
         soup_rows = soup.select(ROW_SELECTOR)
         detail = soup_rows[channel_index].select_one(DETAIL_SELECTOR)
 
         if not detail:
-            print(f"Detail tidak tersedia: {channel_name} - {program_title}")
+            print(f"Selesai diproses: {channel_name} - {program_title}")
             continue
 
         detail_title_element = detail.select_one(".c-tvListingsProgramDetailed-title")
@@ -99,7 +101,7 @@ for channel_index in range(total_channels):
                 "synopsis": synopsis_element.get_text(" ", strip=True).replace("Read More", "").strip() if synopsis_element else None,
             }
         )
-        print(f"Detail berhasil: {channel_name} - {program_title}")
+        print(f"Selesai diproses: {channel_name} - {program_title}")
 
 output_path = DATA_DIR / "program_details_raw.json"
 with output_path.open("w", encoding="utf-8") as file:

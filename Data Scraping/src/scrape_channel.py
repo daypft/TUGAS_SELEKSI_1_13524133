@@ -20,6 +20,7 @@ rows = WebDriverWait(driver, 20).until(
     EC.presence_of_all_elements_located((By.CSS_SELECTOR, ROW_SELECTOR))
 )
 
+# Simpan urutan dan nama channel seperti yang ditampilkan TV Guide.
 channels = []
 
 for channel_order, row in enumerate(rows, start=1):
