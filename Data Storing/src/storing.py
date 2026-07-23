@@ -78,6 +78,7 @@ with open("Data Scraping/data/cleaned/broadcast_schedules.csv", "r", encoding="u
         f,
     )
 
+# Simpan seluruh COPY sebagai satu transaksi database
 conn.commit()
 cur.close()
 conn.close()

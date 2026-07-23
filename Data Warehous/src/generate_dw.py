@@ -33,6 +33,7 @@ cur.execute("""
     FROM public.broadcast_schedules
 """)
 
+# Dimensi channel, program, episode, dan genre
 cur.execute("""
     INSERT INTO warehouse.dim_time
     (time_key, full_time, hour_number, minute_number, second_number)
@@ -51,12 +52,14 @@ cur.execute("""
     ) AS times
 """)
 
+# Bridge relasi many-to-many program dan genre tanpa menggandakan fact
 cur.execute("""
     INSERT INTO warehouse.dim_channel (source_channel_id, call_sign)
     SELECT channel_id, call_sign
     FROM public.tv_channels
 """)
 
+# Grain fact
 cur.execute("""
     INSERT INTO warehouse.dim_program
     (source_program_id, title, program_type, parental_rating)
