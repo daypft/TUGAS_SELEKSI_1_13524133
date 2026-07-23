@@ -4,6 +4,7 @@ import re
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
+from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
@@ -14,11 +15,11 @@ DATA_DIR = Path("Data Scraping/data/raw")
 ROW_SELECTOR = ".c-tvListingsSchedule_row"
 PROGRAM_SELECTOR = ".c-tvListingsProgram"
 DETAIL_SELECTOR = ".c-tvListingsProgramDetailed"
-DETAIL_WAIT_TIME = 1
+DETAIL_WAIT_TIME = 5
+TIME_PATTERN = re.compile(r"(\d{1,2}:\d{2}\s*[AP]M)\s*-\s*(\d{1,2}:\d{2}\s*[AP]M)")
 
 
 driver = webdriver.Chrome()
-driver.implicitly_wait(DETAIL_WAIT_TIME)
 
 driver.get(SOURCE_URL)
 
@@ -45,6 +46,14 @@ for channel_index in range(total_channels):
         program_title = program.find_element(
             By.CSS_SELECTOR, ".c-tvListingsProgram_title"
         ).text.strip()
+        program_duration = program.find_element(
+            By.CSS_SELECTOR, ".c-tvListingsProgram_duration"
+        ).text
+        time_match = TIME_PATTERN.search(program_duration)
+        detail_elements = row.find_elements(By.CSS_SELECTOR, DETAIL_SELECTOR)
+        previous_detail_html = (
+            detail_elements[0].get_attribute("outerHTML") if detail_elements else ""
+        )
 
         # Scroll dan klik kartu
         driver.execute_script(
@@ -52,20 +61,35 @@ for channel_index in range(total_channels):
         )
         driver.execute_script("arguments[0].click();", program)
 
-        detail_elements = driver.find_elements(By.CSS_SELECTOR, DETAIL_SELECTOR)
+        # Tunggu panel detail pada row channel yang sama, bukan panel dari channel lain.
+        try:
+            detail_html = WebDriverWait(driver, DETAIL_WAIT_TIME).until(
+                lambda browser: browser.find_elements(By.CSS_SELECTOR, ROW_SELECTOR)[channel_index]
+                .find_element(By.CSS_SELECTOR, DETAIL_SELECTOR)
+                .get_attribute("outerHTML")
+            )
 
-        if not detail_elements:
+            if previous_detail_html:
+                try:
+                    detail_html = WebDriverWait(driver, DETAIL_WAIT_TIME).until(
+                        lambda browser: (
+                            browser.find_elements(By.CSS_SELECTOR, ROW_SELECTOR)[channel_index]
+                            .find_element(By.CSS_SELECTOR, DETAIL_SELECTOR)
+                            .get_attribute("outerHTML")
+                            if browser.find_elements(By.CSS_SELECTOR, ROW_SELECTOR)[channel_index]
+                            .find_element(By.CSS_SELECTOR, DETAIL_SELECTOR)
+                            .get_attribute("outerHTML") != previous_detail_html
+                            else False
+                        )
+                    )
+                except TimeoutException:
+                    pass
+        except TimeoutException:
             print(f"Selesai diproses: {channel_name} - {program_title}")
             continue
 
         # Parse panel detail untuk mengambil metadata, episode, genre, dan synopsis
-        soup = BeautifulSoup(driver.page_source, "html.parser")
-        soup_rows = soup.select(ROW_SELECTOR)
-        detail = soup_rows[channel_index].select_one(DETAIL_SELECTOR)
-
-        if not detail:
-            print(f"Selesai diproses: {channel_name} - {program_title}")
-            continue
+        detail = BeautifulSoup(detail_html, "html.parser")
 
         detail_title_element = detail.select_one(".c-tvListingsProgramDetailed-title")
         detail_title = detail_title_element.get_text(strip=True) if detail_title_element else None
@@ -84,7 +108,9 @@ for channel_index in range(total_channels):
                 "channel_order": channel_index + 1,
                 "channel_name": channel_name,
                 "program_order": program_index + 1,
-                "program_title": detail_title or program_title,
+                "program_title": program_title,
+                "start_time_raw": time_match.group(1) if time_match else None,
+                "end_time_raw": time_match.group(2) if time_match else None,
                 "duration_raw": metadata[0] if metadata else None,
                 "release_year": next(
                     (item for item in metadata if re.fullmatch(r"(?:19|20)\d{2}", item)),

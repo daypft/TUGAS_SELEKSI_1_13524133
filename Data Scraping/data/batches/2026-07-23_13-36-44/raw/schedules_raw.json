@@ -351,7 +351,7 @@
   },
   {
     "channel_order": 15,
-    "channel_name": "CSPA-1",
+    "channel_name": "CSPAN",
     "program_order": 1,
     "program_title": "U.S. House of Representatives",
     "start_time_raw": "1:00 PM",
@@ -361,7 +361,7 @@
   },
   {
     "channel_order": 15,
-    "channel_name": "CSPA-1",
+    "channel_name": "CSPAN",
     "program_order": 2,
     "program_title": "U.S. House of Representatives",
     "start_time_raw": "3:00 PM",
@@ -411,7 +411,7 @@
   },
   {
     "channel_order": 17,
-    "channel_name": "FNC",
+    "channel_name": "FOXNEW",
     "program_order": 1,
     "program_title": "Hannity",
     "start_time_raw": "1:00 PM",
@@ -421,7 +421,7 @@
   },
   {
     "channel_order": 17,
-    "channel_name": "FNC",
+    "channel_name": "FOXNEW",
     "program_order": 2,
     "program_title": "Gutfeld!",
     "start_time_raw": "2:00 PM",
@@ -431,7 +431,7 @@
   },
   {
     "channel_order": 17,
-    "channel_name": "FNC",
+    "channel_name": "FOXNEW",
     "program_order": 3,
     "program_title": "Fox News @ Night",
     "start_time_raw": "3:00 PM",
@@ -481,7 +481,7 @@
   },
   {
     "channel_order": 19,
-    "channel_name": "MSNBC",
+    "channel_name": "MSNOW",
     "program_order": 1,
     "program_title": "The 11th Hour with Ali Velshi",
     "start_time_raw": "1:00 PM",
@@ -491,7 +491,7 @@
   },
   {
     "channel_order": 19,
-    "channel_name": "MSNBC",
+    "channel_name": "MSNOW",
     "program_order": 2,
     "program_title": "All in with Chris Hayes",
     "start_time_raw": "2:00 PM",
@@ -501,7 +501,7 @@
   },
   {
     "channel_order": 19,
-    "channel_name": "MSNBC",
+    "channel_name": "MSNOW",
     "program_order": 3,
     "program_title": "The Briefing with Jen Psaki",
     "start_time_raw": "3:00 PM",
@@ -511,7 +511,7 @@
   },
   {
     "channel_order": 20,
-    "channel_name": "WGNAMER",
+    "channel_name": "NEWSNAT",
     "program_order": 1,
     "program_title": "Katie Pavlich",
     "start_time_raw": "1:00 PM",
@@ -521,7 +521,7 @@
   },
   {
     "channel_order": 20,
-    "channel_name": "WGNAMER",
+    "channel_name": "NEWSNAT",
     "program_order": 2,
     "program_title": "Cuomo",
     "start_time_raw": "2:00 PM",
@@ -531,7 +531,7 @@
   },
   {
     "channel_order": 20,
-    "channel_name": "WGNAMER",
+    "channel_name": "NEWSNAT",
     "program_order": 3,
     "program_title": "On Balance with Leland Vittert",
     "start_time_raw": "3:00 PM",
@@ -1271,7 +1271,7 @@
   },
   {
     "channel_order": 48,
-    "channel_name": "BOOM-E",
+    "channel_name": "BOOM",
     "program_order": 1,
     "program_title": "Ben 10",
     "start_time_raw": "1:30 PM",
@@ -1281,7 +1281,7 @@
   },
   {
     "channel_order": 48,
-    "channel_name": "BOOM-E",
+    "channel_name": "BOOM",
     "program_order": 2,
     "program_title": "Tom and Jerry",
     "start_time_raw": "2:00 PM",
@@ -1291,7 +1291,7 @@
   },
   {
     "channel_order": 48,
-    "channel_name": "BOOM-E",
+    "channel_name": "BOOM",
     "program_order": 3,
     "program_title": "Tom and Jerry",
     "start_time_raw": "2:10 PM",
@@ -1301,7 +1301,7 @@
   },
   {
     "channel_order": 48,
-    "channel_name": "BOOM-E",
+    "channel_name": "BOOM",
     "program_order": 4,
     "program_title": "Tom and Jerry",
     "start_time_raw": "2:20 PM",
@@ -1311,7 +1311,7 @@
   },
   {
     "channel_order": 48,
-    "channel_name": "BOOM-E",
+    "channel_name": "BOOM",
     "program_order": 5,
     "program_title": "Tom and Jerry",
     "start_time_raw": "2:30 PM",
@@ -1321,7 +1321,7 @@
   },
   {
     "channel_order": 48,
-    "channel_name": "BOOM-E",
+    "channel_name": "BOOM",
     "program_order": 6,
     "program_title": "Tom and Jerry",
     "start_time_raw": "2:40 PM",
@@ -1331,7 +1331,7 @@
   },
   {
     "channel_order": 48,
-    "channel_name": "BOOM-E",
+    "channel_name": "BOOM",
     "program_order": 7,
     "program_title": "Tom and Jerry",
     "start_time_raw": "2:50 PM",
@@ -1341,7 +1341,7 @@
   },
   {
     "channel_order": 48,
-    "channel_name": "BOOM-E",
+    "channel_name": "BOOM",
     "program_order": 8,
     "program_title": "Popeye the Sailor",
     "start_time_raw": "3:00 PM",
@@ -1351,7 +1351,7 @@
   },
   {
     "channel_order": 48,
-    "channel_name": "BOOM-E",
+    "channel_name": "BOOM",
     "program_order": 9,
     "program_title": "Popeye the Sailor",
     "start_time_raw": "3:10 PM",
@@ -1361,7 +1361,7 @@
   },
   {
     "channel_order": 48,
-    "channel_name": "BOOM-E",
+    "channel_name": "BOOM",
     "program_order": 10,
     "program_title": "",
     "start_time_raw": null,
@@ -3531,7 +3531,7 @@
   },
   {
     "channel_order": 114,
-    "channel_name": "HBOC-E",
+    "channel_name": "HBOCOM",
     "program_order": 1,
     "program_title": "Mickey 17",
     "start_time_raw": "1:20 PM",
@@ -3541,7 +3541,7 @@
   },
   {
     "channel_order": 115,
-    "channel_name": "HBOSG",
+    "channel_name": "HBOSIG",
     "program_order": 1,
     "program_title": "The Leftovers",
     "start_time_raw": "12:46 PM",
@@ -3551,7 +3551,7 @@
   },
   {
     "channel_order": 115,
-    "channel_name": "HBOSG",
+    "channel_name": "HBOSIG",
     "program_order": 2,
     "program_title": "The Leftovers",
     "start_time_raw": "1:49 PM",
@@ -3561,7 +3561,7 @@
   },
   {
     "channel_order": 115,
-    "channel_name": "HBOSG",
+    "channel_name": "HBOSIG",
     "program_order": 3,
     "program_title": "The Leftovers",
     "start_time_raw": "2:44 PM",
@@ -3571,7 +3571,7 @@
   },
   {
     "channel_order": 116,
-    "channel_name": "HBOZ-E",
+    "channel_name": "HBOZON",
     "program_order": 1,
     "program_title": "Eddington",
     "start_time_raw": "11:45 AM",
@@ -3581,7 +3581,7 @@
   },
   {
     "channel_order": 116,
-    "channel_name": "HBOZ-E",
+    "channel_name": "HBOZON",
     "program_order": 2,
     "program_title": "",
     "start_time_raw": null,
@@ -3591,7 +3591,7 @@
   },
   {
     "channel_order": 116,
-    "channel_name": "HBOZ-E",
+    "channel_name": "HBOZON",
     "program_order": 3,
     "program_title": "The Long Walk",
     "start_time_raw": "2:14 PM",
@@ -3631,7 +3631,7 @@
   },
   {
     "channel_order": 118,
-    "channel_name": "AMX-E",
+    "channel_name": "ACTMAX",
     "program_order": 1,
     "program_title": "Heretic",
     "start_time_raw": "12:37 PM",
@@ -3641,7 +3641,7 @@
   },
   {
     "channel_order": 118,
-    "channel_name": "AMX-E",
+    "channel_name": "ACTMAX",
     "program_order": 2,
     "program_title": "Body At Brighton Rock",
     "start_time_raw": "2:29 PM",
@@ -3651,7 +3651,7 @@
   },
   {
     "channel_order": 119,
-    "channel_name": "MAXEAL",
+    "channel_name": "CINEMAX",
     "program_order": 1,
     "program_title": "Happy Death Day",
     "start_time_raw": "12:47 PM",
@@ -3661,7 +3661,7 @@
   },
   {
     "channel_order": 119,
-    "channel_name": "MAXEAL",
+    "channel_name": "CINEMAX",
     "program_order": 2,
     "program_title": "Final Destination 5",
     "start_time_raw": "2:24 PM",
@@ -3671,7 +3671,7 @@
   },
   {
     "channel_order": 120,
-    "channel_name": "MMX-E",
+    "channel_name": "MOMAX",
     "program_order": 1,
     "program_title": "Shot Caller",
     "start_time_raw": "12:16 PM",
@@ -3681,7 +3681,7 @@
   },
   {
     "channel_order": 120,
-    "channel_name": "MMX-E",
+    "channel_name": "MOMAX",
     "program_order": 2,
     "program_title": "Y2K",
     "start_time_raw": "2:17 PM",
@@ -3711,7 +3711,7 @@
   },
   {
     "channel_order": 122,
-    "channel_name": "SHO2XE",
+    "channel_name": "SHO2",
     "program_order": 1,
     "program_title": "Daniela Forever",
     "start_time_raw": "1:00 PM",
@@ -3721,7 +3721,7 @@
   },
   {
     "channel_order": 122,
-    "channel_name": "SHO2XE",
+    "channel_name": "SHO2",
     "program_order": 2,
     "program_title": "Not Without Hope",
     "start_time_raw": "3:00 PM",
@@ -3751,7 +3751,7 @@
   },
   {
     "channel_order": 124,
-    "channel_name": "SHOX-E",
+    "channel_name": "SHOWEX",
     "program_order": 1,
     "program_title": "The Comeback Trail",
     "start_time_raw": "1:20 PM",
@@ -3761,7 +3761,7 @@
   },
   {
     "channel_order": 124,
-    "channel_name": "SHOX-E",
+    "channel_name": "SHOWEX",
     "program_order": 2,
     "program_title": "Pootie Tang",
     "start_time_raw": "3:10 PM",
@@ -3921,7 +3921,7 @@
   },
   {
     "channel_order": 131,
-    "channel_name": "TMC2XE",
+    "channel_name": "TMCXTRA",
     "program_order": 1,
     "program_title": "Black Lotus",
     "start_time_raw": "1:25 PM",
@@ -3931,7 +3931,7 @@
   },
   {
     "channel_order": 131,
-    "channel_name": "TMC2XE",
+    "channel_name": "TMCXTRA",
     "program_order": 2,
     "program_title": "The Beldham",
     "start_time_raw": "3:00 PM",

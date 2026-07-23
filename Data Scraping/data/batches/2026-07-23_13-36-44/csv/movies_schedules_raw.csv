@@ -1,0 +1,93 @@
+channel_order,channel_name,program_order,program_title,start_time_raw,end_time_raw,is_new,is_live
+1,FUSEHD,1,Malibooty!,1:30 PM,3:30 PM,False,False
+2,ETV-E,1,Royal Rendezvous,1:00 PM,3:00 PM,False,False
+2,ETV-E,2,Arranged Love,3:00 PM,5:00 PM,False,False
+3,FX-E,1,Man on Fire,1:00 PM,4:00 PM,False,False
+4,FXM,1,Big George Foreman: The Miraculous Story of the Once and Future Heavyweight,12:10 PM,2:50 PM,False,False
+4,FXM,2,Carousel,2:50 PM,5:00 PM,False,False
+5,GACFAM,1,A Royal Icing Christmas,1:00 PM,3:00 PM,False,False
+5,GACFAM,2,Christmas on Candy Cane Lane,3:00 PM,5:00 PM,False,False
+6,LMN,1,Yoga Teacher Killer: The Kaitlin Armstrong Story,1:01 PM,3:02 PM,False,False
+6,LMN,2,Paid Program,3:02 PM,3:32 PM,False,False
+7,PARMT,1,F9,1:00 PM,4:00 PM,False,False
+8,SyFy,1,Cocaine Bear,12:00 PM,2:00 PM,False,False
+8,SyFy,2,NCIS: Los Angeles,2:00 PM,3:00 PM,False,False
+8,SyFy,3,NCIS: Los Angeles,3:00 PM,4:00 PM,False,False
+9,TCM,1,Fiddler on the Roof,1:00 PM,4:15 PM,False,False
+10,HBO2,1,Deadpool 2,12:34 PM,2:34 PM,False,False
+10,HBO2,2,House of the Dragon,2:34 PM,3:42 PM,False,False
+11,HBOCOM,1,Mickey 17,1:20 PM,3:37 PM,False,False
+12,HBOZON,1,Eddington,11:45 AM,2:13 PM,False,False
+12,HBOZON,2,,,,False,False
+12,HBOZON,3,The Long Walk,2:14 PM,4:03 PM,False,False
+13,5STMAX,1,Godzilla vs. Gigan,12:11 PM,1:41 PM,False,False
+13,5STMAX,2,Son of Godzilla,1:41 PM,3:07 PM,False,False
+13,5STMAX,3,Pirate Radio,3:07 PM,5:06 PM,False,False
+14,ACTMAX,1,Heretic,12:37 PM,2:29 PM,False,False
+14,ACTMAX,2,Body At Brighton Rock,2:29 PM,3:57 PM,False,False
+15,CINEMAX,1,Happy Death Day,12:47 PM,2:24 PM,False,False
+15,CINEMAX,2,Final Destination 5,2:24 PM,3:57 PM,False,False
+16,MOMAX,1,Shot Caller,12:16 PM,2:17 PM,False,False
+16,MOMAX,2,Y2K,2:17 PM,3:49 PM,False,False
+17,ParSHO,1,Faster,12:05 PM,1:50 PM,False,False
+17,ParSHO,2,Scream 4,1:50 PM,3:45 PM,False,False
+18,SHO2,1,Daniela Forever,1:00 PM,3:00 PM,False,False
+18,SHO2,2,Not Without Hope,3:00 PM,5:00 PM,False,False
+19,SHOBET,1,Undisputed,1:15 PM,2:50 PM,False,False
+19,SHOBET,2,THE RESURGENCE: DeMarcus Cousins,2:50 PM,4:05 PM,False,False
+20,SHOWEX,1,The Comeback Trail,1:20 PM,3:10 PM,False,False
+20,SHOWEX,2,Pootie Tang,3:10 PM,4:35 PM,False,False
+21,SHOWFAM,1,Star Trek: Insurrection,12:00 PM,1:45 PM,False,False
+21,SHOWFAM,2,Orange County,1:45 PM,3:10 PM,False,False
+21,SHOWFAM,3,Queen Bees,3:10 PM,5:00 PM,False,False
+22,SHOWNEXT,1,Everybody Wants Some!!,11:35 AM,1:35 PM,False,False
+22,SHOWNEXT,2,Good Burger,1:35 PM,3:15 PM,False,False
+22,SHOWNEXT,3,Failure to Launch,3:15 PM,5:00 PM,False,False
+23,SHOCSE,1,Virtuosity,12:00 PM,1:50 PM,False,False
+23,SHOCSE,2,"South Park: Bigger, Longer & Uncut",1:50 PM,3:15 PM,False,False
+23,SHOCSE,3,Day of the Fight,3:15 PM,5:05 PM,False,False
+24,SHOWWOM,1,Would You Rather,12:05 PM,1:40 PM,False,False
+24,SHOWWOM,2,All the World is Sleeping,1:40 PM,3:35 PM,False,False
+25,FLIX-E,1,Scream 3,12:30 PM,2:30 PM,False,False
+25,FLIX-E,2,Lara Croft: Tomb Raider,2:30 PM,4:15 PM,False,False
+26,TMCEAL,1,Raiders of the Lost Ark,1:00 PM,3:00 PM,False,False
+26,TMCEAL,2,Terms of Endearment,3:00 PM,5:15 PM,False,False
+27,TMCXTRA,1,Black Lotus,1:25 PM,3:00 PM,False,False
+27,TMCXTRA,2,The Beldham,3:00 PM,4:30 PM,False,False
+28,STARZ,1,Bait,11:31 AM,1:34 PM,False,False
+28,STARZ,2,The Man in the White Van,1:34 PM,3:22 PM,False,False
+28,STARZ,3,Van Helsing,3:22 PM,5:36 PM,False,False
+29,STARZCIN,1,Escape From Pretoria,12:20 PM,2:07 PM,False,False
+29,STARZCIN,2,Rememory,2:07 PM,4:00 PM,False,False
+30,STARZCOM,1,High School,12:14 PM,1:55 PM,False,False
+30,STARZCOM,2,Hi-Life,1:55 PM,3:22 PM,False,False
+30,STARZCOM,3,The Queen of Spain,3:22 PM,5:31 PM,False,False
+31,STARZED,1,,,,False,False
+31,STARZED,2,Crave,1:32 PM,3:26 PM,False,False
+31,STARZED,3,Fairhaven,3:26 PM,4:48 PM,False,False
+32,STARZBLK,1,Dreams,1:23 PM,3:44 PM,False,False
+33,STARZFAM,1,,,,False,False
+33,STARZFAM,2,My Dog the Champion,1:33 PM,3:01 PM,False,False
+33,STARZFAM,3,Beautiful Wave,3:01 PM,4:38 PM,False,False
+34,ENCORE,1,,,,False,False
+34,ENCORE,2,The Strangers: Chapter 3,1:31 PM,3:06 PM,False,False
+34,ENCORE,3,The Hard Hit,3:06 PM,4:26 PM,False,False
+35,ENCORFM,1,Girl in Progress,12:02 PM,1:36 PM,False,False
+35,ENCORFM,2,Joey and Ella,1:36 PM,3:06 PM,False,False
+35,ENCORFM,3,What's Cooking?,3:06 PM,4:57 PM,False,False
+36,ENCORSS,1,The Woman in Green,1:15 PM,2:24 PM,False,False
+36,ENCORSS,2,Transit,2:24 PM,3:53 PM,False,False
+37,ENCRACT,1,The Grudge 2,12:08 PM,1:51 PM,False,False
+37,ENCRACT,2,The Day,1:51 PM,3:16 PM,False,False
+37,ENCRACT,3,High Ground,3:16 PM,5:04 PM,False,False
+38,ENCRBL,1,The Hunting Party,1:01 PM,2:43 PM,False,False
+38,ENCRBL,2,Marshall,2:43 PM,4:42 PM,False,False
+39,ENCRCL,1,Macbeth,12:04 PM,1:58 PM,False,False
+39,ENCRCL,2,Big Eyes,1:58 PM,3:45 PM,False,False
+40,ENCRWST,1,Shotgun,1:21 PM,2:42 PM,False,False
+40,ENCRWST,2,Don Ricardo Returns,2:42 PM,3:51 PM,False,False
+41,MGM+DRV,1,The Legend of Bagger Vance,1:25 PM,3:35 PM,False,False
+42,MGM+HIT,1,Boo! A Madea Halloween,12:20 PM,2:05 PM,False,False
+42,MGM+HIT,2,"LaRoy, Texas",2:05 PM,4:00 PM,False,False
+43,MGM+MAR,1,The Keep,1:25 PM,3:05 PM,False,False
+43,MGM+MAR,2,Audrey Rose,3:05 PM,5:00 PM,False,False

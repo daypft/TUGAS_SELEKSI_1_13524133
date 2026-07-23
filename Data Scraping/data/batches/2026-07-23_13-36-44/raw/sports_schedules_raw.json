@@ -3,6 +3,16 @@
     "channel_order": 1,
     "channel_name": "ACCN",
     "program_order": 1,
+    "program_title": "College Football",
+    "start_time_raw": "11:00 AM",
+    "end_time_raw": "2:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 1,
+    "channel_name": "ACCN",
+    "program_order": 2,
     "program_title": "ACC Huddle",
     "start_time_raw": "2:00 PM",
     "end_time_raw": "2:30 PM",
@@ -12,20 +22,10 @@
   {
     "channel_order": 1,
     "channel_name": "ACCN",
-    "program_order": 2,
+    "program_order": 3,
     "program_title": "Authentic ACC",
     "start_time_raw": "2:30 PM",
     "end_time_raw": "3:30 PM",
-    "is_new": false,
-    "is_live": false
-  },
-  {
-    "channel_order": 1,
-    "channel_name": "ACCN",
-    "program_order": 3,
-    "program_title": "ACC Huddle",
-    "start_time_raw": "3:30 PM",
-    "end_time_raw": "4:00 PM",
     "is_new": false,
     "is_live": false
   },
@@ -40,19 +40,19 @@
     "is_live": false
   },
   {
-    "channel_order": 2,
-    "channel_name": "BTN",
-    "program_order": 2,
-    "program_title": "Minnesota Basketball Classic",
-    "start_time_raw": "3:30 PM",
-    "end_time_raw": "4:30 PM",
+    "channel_order": 3,
+    "channel_name": "CBSSPT",
+    "program_order": 1,
+    "program_title": "2026 SBD World's Strongest Man",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "2:00 PM",
     "is_new": false,
     "is_live": false
   },
   {
     "channel_order": 3,
     "channel_name": "CBSSPT",
-    "program_order": 1,
+    "program_order": 2,
     "program_title": "2026 SBD World's Strongest Man",
     "start_time_raw": "2:00 PM",
     "end_time_raw": "3:00 PM",
@@ -62,7 +62,7 @@
   {
     "channel_order": 3,
     "channel_name": "CBSSPT",
-    "program_order": 2,
+    "program_order": 3,
     "program_title": "2026 SBD World's Strongest Man",
     "start_time_raw": "3:00 PM",
     "end_time_raw": "4:00 PM",
@@ -74,6 +74,16 @@
     "channel_name": "ESPN",
     "program_order": 1,
     "program_title": "SportsCenter",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "2:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 4,
+    "channel_name": "ESPN",
+    "program_order": 2,
+    "program_title": "SportsCenter",
     "start_time_raw": "2:00 PM",
     "end_time_raw": "3:00 PM",
     "is_new": false,
@@ -82,7 +92,7 @@
   {
     "channel_order": 4,
     "channel_name": "ESPN",
-    "program_order": 2,
+    "program_order": 3,
     "program_title": "The 2026 ESPYS",
     "start_time_raw": "3:00 PM",
     "end_time_raw": "5:00 PM",
@@ -93,6 +103,16 @@
     "channel_order": 5,
     "channel_name": "ESPN2",
     "program_order": 1,
+    "program_title": "NFL Live",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "2:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 5,
+    "channel_name": "ESPN2",
+    "program_order": 2,
     "program_title": "MLB Baseball",
     "start_time_raw": "2:00 PM",
     "end_time_raw": "4:00 PM",
@@ -103,6 +123,16 @@
     "channel_order": 6,
     "channel_name": "ESPNWS",
     "program_order": 1,
+    "program_title": "Pardon the Interruption",
+    "start_time_raw": "1:30 PM",
+    "end_time_raw": "2:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 6,
+    "channel_name": "ESPNWS",
+    "program_order": 2,
     "program_title": "Donk Toss World Championship",
     "start_time_raw": "2:00 PM",
     "end_time_raw": "2:30 PM",
@@ -112,7 +142,7 @@
   {
     "channel_order": 6,
     "channel_name": "ESPNWS",
-    "program_order": 2,
+    "program_order": 3,
     "program_title": "BBA Bubbleball",
     "start_time_raw": "2:30 PM",
     "end_time_raw": "3:00 PM",
@@ -122,7 +152,7 @@
   {
     "channel_order": 6,
     "channel_name": "ESPNWS",
-    "program_order": 3,
+    "program_order": 4,
     "program_title": "SportsCenter",
     "start_time_raw": "3:00 PM",
     "end_time_raw": "4:00 PM",
@@ -184,6 +214,16 @@
     "channel_name": "FS2",
     "program_order": 1,
     "program_title": "2026 FIFA World Cup",
+    "start_time_raw": "12:00 PM",
+    "end_time_raw": "2:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 10,
+    "channel_name": "FS2",
+    "program_order": 2,
+    "program_title": "2026 FIFA World Cup",
     "start_time_raw": "2:00 PM",
     "end_time_raw": "4:00 PM",
     "is_new": false,
@@ -210,19 +250,19 @@
     "is_live": false
   },
   {
-    "channel_order": 11,
-    "channel_name": "GOLF",
-    "program_order": 3,
-    "program_title": "LPGA Tour Golf",
-    "start_time_raw": "3:30 PM",
-    "end_time_raw": "7:30 PM",
+    "channel_order": 12,
+    "channel_name": "NFLNET",
+    "program_order": 1,
+    "program_title": "Team Highlights",
+    "start_time_raw": "1:30 PM",
+    "end_time_raw": "2:00 PM",
     "is_new": false,
-    "is_live": true
+    "is_live": false
   },
   {
     "channel_order": 12,
     "channel_name": "NFLNET",
-    "program_order": 1,
+    "program_order": 2,
     "program_title": "Team Highlights",
     "start_time_raw": "2:00 PM",
     "end_time_raw": "2:30 PM",
@@ -232,7 +272,7 @@
   {
     "channel_order": 12,
     "channel_name": "NFLNET",
-    "program_order": 2,
+    "program_order": 3,
     "program_title": "Team Highlights",
     "start_time_raw": "2:30 PM",
     "end_time_raw": "3:00 PM",
@@ -242,7 +282,7 @@
   {
     "channel_order": 12,
     "channel_name": "NFLNET",
-    "program_order": 3,
+    "program_order": 4,
     "program_title": "The Insiders",
     "start_time_raw": "3:00 PM",
     "end_time_raw": "4:00 PM",
@@ -254,6 +294,16 @@
     "channel_name": "MLB",
     "program_order": 1,
     "program_title": "Quick Pitch",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "2:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 13,
+    "channel_name": "MLB",
+    "program_order": 2,
+    "program_title": "Quick Pitch",
     "start_time_raw": "2:00 PM",
     "end_time_raw": "3:00 PM",
     "is_new": false,
@@ -262,7 +312,7 @@
   {
     "channel_order": 13,
     "channel_name": "MLB",
-    "program_order": 2,
+    "program_order": 3,
     "program_title": "Quick Pitch",
     "start_time_raw": "3:00 PM",
     "end_time_raw": "4:00 PM",
@@ -291,6 +341,46 @@
   },
   {
     "channel_order": 15,
+    "channel_name": "OUTDRE",
+    "program_order": 1,
+    "program_title": "Bowhunter TV",
+    "start_time_raw": "1:30 PM",
+    "end_time_raw": "2:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 15,
+    "channel_name": "OUTDRE",
+    "program_order": 2,
+    "program_title": "Guns & Ammo TV",
+    "start_time_raw": "2:00 PM",
+    "end_time_raw": "2:30 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 15,
+    "channel_name": "OUTDRE",
+    "program_order": 3,
+    "program_title": "Handguns",
+    "start_time_raw": "2:30 PM",
+    "end_time_raw": "3:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 15,
+    "channel_name": "OUTDRE",
+    "program_order": 4,
+    "program_title": "Shooting USA",
+    "start_time_raw": "3:00 PM",
+    "end_time_raw": "3:30 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 16,
     "channel_name": "SECNET",
     "program_order": 1,
     "program_title": "SEC Now",
@@ -300,7 +390,7 @@
     "is_live": false
   },
   {
-    "channel_order": 15,
+    "channel_order": 16,
     "channel_name": "SECNET",
     "program_order": 2,
     "program_title": "The Paul Finebaum Show",
@@ -310,7 +400,7 @@
     "is_live": false
   },
   {
-    "channel_order": 16,
+    "channel_order": 17,
     "channel_name": "TENNIS",
     "program_order": 1,
     "program_title": "Courtside",

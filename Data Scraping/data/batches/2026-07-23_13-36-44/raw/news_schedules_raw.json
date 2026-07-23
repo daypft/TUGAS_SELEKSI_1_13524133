@@ -23,6 +23,16 @@
     "channel_order": 3,
     "channel_name": "NBC",
     "program_order": 1,
+    "program_title": "Top Story with Tom Llamas",
+    "start_time_raw": "1:13 PM",
+    "end_time_raw": "2:00 PM",
+    "is_new": true,
+    "is_live": false
+  },
+  {
+    "channel_order": 3,
+    "channel_name": "NBC",
+    "program_order": 2,
     "program_title": "Early Today",
     "start_time_raw": "2:00 PM",
     "end_time_raw": "2:30 PM",
@@ -32,7 +42,7 @@
   {
     "channel_order": 3,
     "channel_name": "NBC",
-    "program_order": 2,
+    "program_order": 3,
     "program_title": "Early Today",
     "start_time_raw": "2:30 PM",
     "end_time_raw": "3:00 PM",
@@ -42,7 +52,7 @@
   {
     "channel_order": 3,
     "channel_name": "NBC",
-    "program_order": 3,
+    "program_order": 4,
     "program_title": "Early Today",
     "start_time_raw": "3:00 PM",
     "end_time_raw": "3:30 PM",
@@ -50,19 +60,19 @@
     "is_live": false
   },
   {
-    "channel_order": 3,
-    "channel_name": "NBC",
-    "program_order": 4,
-    "program_title": "Local Programs",
-    "start_time_raw": "3:30 PM",
-    "end_time_raw": "6:00 PM",
+    "channel_order": 4,
+    "channel_name": "TELMUN",
+    "program_order": 1,
+    "program_title": "En casa con Telemundo",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "2:00 PM",
     "is_new": false,
     "is_live": false
   },
   {
     "channel_order": 4,
     "channel_name": "TELMUN",
-    "program_order": 1,
+    "program_order": 2,
     "program_title": "En casa con Telemundo",
     "start_time_raw": "2:00 PM",
     "end_time_raw": "3:00 PM",
@@ -72,7 +82,7 @@
   {
     "channel_order": 4,
     "channel_name": "TELMUN",
-    "program_order": 2,
+    "program_order": 3,
     "program_title": "La mesa caliente",
     "start_time_raw": "3:00 PM",
     "end_time_raw": "4:00 PM",
@@ -83,6 +93,26 @@
     "channel_order": 5,
     "channel_name": "BBCNW",
     "program_order": 1,
+    "program_title": "Business Today",
+    "start_time_raw": "1:30 PM",
+    "end_time_raw": "1:55 PM",
+    "is_new": false,
+    "is_live": true
+  },
+  {
+    "channel_order": 5,
+    "channel_name": "BBCNW",
+    "program_order": 2,
+    "program_title": "Talking Movies",
+    "start_time_raw": "1:55 PM",
+    "end_time_raw": "2:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 5,
+    "channel_name": "BBCNW",
+    "program_order": 3,
     "program_title": "BBC News",
     "start_time_raw": "2:00 PM",
     "end_time_raw": "2:30 PM",
@@ -92,7 +122,7 @@
   {
     "channel_order": 5,
     "channel_name": "BBCNW",
-    "program_order": 2,
+    "program_order": 4,
     "program_title": "BBC News",
     "start_time_raw": "2:30 PM",
     "end_time_raw": "3:00 PM",
@@ -102,7 +132,7 @@
   {
     "channel_order": 5,
     "channel_name": "BBCNW",
-    "program_order": 3,
+    "program_order": 5,
     "program_title": "BBC News",
     "start_time_raw": "3:00 PM",
     "end_time_raw": "3:30 PM",
@@ -110,48 +140,8 @@
     "is_live": true
   },
   {
-    "channel_order": 5,
-    "channel_name": "BBCNW",
-    "program_order": 4,
-    "program_title": "BBC News",
-    "start_time_raw": "3:30 PM",
-    "end_time_raw": "3:55 PM",
-    "is_new": false,
-    "is_live": true
-  },
-  {
-    "channel_order": 5,
-    "channel_name": "BBCNW",
-    "program_order": 5,
-    "program_title": "",
-    "start_time_raw": null,
-    "end_time_raw": null,
-    "is_new": false,
-    "is_live": false
-  },
-  {
     "channel_order": 6,
-    "channel_name": "CNN",
-    "program_order": 1,
-    "program_title": "CNN NewsNight with Abby Phillip",
-    "start_time_raw": "2:00 PM",
-    "end_time_raw": "3:00 PM",
-    "is_new": false,
-    "is_live": false
-  },
-  {
-    "channel_order": 6,
-    "channel_name": "CNN",
-    "program_order": 2,
-    "program_title": "Anderson Cooper 360°",
-    "start_time_raw": "3:00 PM",
-    "end_time_raw": "4:00 PM",
-    "is_new": false,
-    "is_live": false
-  },
-  {
-    "channel_order": 7,
-    "channel_name": "CSPA-1",
+    "channel_name": "CSPAN",
     "program_order": 1,
     "program_title": "U.S. House of Representatives",
     "start_time_raw": "1:00 PM",
@@ -160,8 +150,8 @@
     "is_live": false
   },
   {
-    "channel_order": 7,
-    "channel_name": "CSPA-1",
+    "channel_order": 6,
+    "channel_name": "CSPAN",
     "program_order": 2,
     "program_title": "U.S. House of Representatives",
     "start_time_raw": "3:00 PM",
@@ -170,9 +160,19 @@
     "is_live": false
   },
   {
-    "channel_order": 8,
-    "channel_name": "MSNBC",
+    "channel_order": 7,
+    "channel_name": "MSNOW",
     "program_order": 1,
+    "program_title": "The 11th Hour with Ali Velshi",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "2:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 7,
+    "channel_name": "MSNOW",
+    "program_order": 2,
     "program_title": "All in with Chris Hayes",
     "start_time_raw": "2:00 PM",
     "end_time_raw": "3:00 PM",
@@ -180,9 +180,9 @@
     "is_live": false
   },
   {
-    "channel_order": 8,
-    "channel_name": "MSNBC",
-    "program_order": 2,
+    "channel_order": 7,
+    "channel_name": "MSNOW",
+    "program_order": 3,
     "program_title": "The Briefing with Jen Psaki",
     "start_time_raw": "3:00 PM",
     "end_time_raw": "4:00 PM",
@@ -190,9 +190,19 @@
     "is_live": false
   },
   {
-    "channel_order": 9,
-    "channel_name": "WGNAMER",
+    "channel_order": 8,
+    "channel_name": "NEWSNAT",
     "program_order": 1,
+    "program_title": "Katie Pavlich",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "2:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 8,
+    "channel_name": "NEWSNAT",
+    "program_order": 2,
     "program_title": "Cuomo",
     "start_time_raw": "2:00 PM",
     "end_time_raw": "3:00 PM",
@@ -200,9 +210,9 @@
     "is_live": false
   },
   {
-    "channel_order": 9,
-    "channel_name": "WGNAMER",
-    "program_order": 2,
+    "channel_order": 8,
+    "channel_name": "NEWSNAT",
+    "program_order": 3,
     "program_title": "On Balance with Leland Vittert",
     "start_time_raw": "3:00 PM",
     "end_time_raw": "4:00 PM",

@@ -57,7 +57,7 @@
   },
   {
     "channel_order": 15,
-    "channel_name": "CSPA-1"
+    "channel_name": "CSPAN"
   },
   {
     "channel_order": 16,
@@ -65,7 +65,7 @@
   },
   {
     "channel_order": 17,
-    "channel_name": "FNC"
+    "channel_name": "FOXNEW"
   },
   {
     "channel_order": 18,
@@ -73,11 +73,11 @@
   },
   {
     "channel_order": 19,
-    "channel_name": "MSNBC"
+    "channel_name": "MSNOW"
   },
   {
     "channel_order": 20,
-    "channel_name": "WGNAMER"
+    "channel_name": "NEWSNAT"
   },
   {
     "channel_order": 21,
@@ -189,7 +189,7 @@
   },
   {
     "channel_order": 48,
-    "channel_name": "BOOM-E"
+    "channel_name": "BOOM"
   },
   {
     "channel_order": 49,
@@ -453,15 +453,15 @@
   },
   {
     "channel_order": 114,
-    "channel_name": "HBOC-E"
+    "channel_name": "HBOCOM"
   },
   {
     "channel_order": 115,
-    "channel_name": "HBOSG"
+    "channel_name": "HBOSIG"
   },
   {
     "channel_order": 116,
-    "channel_name": "HBOZ-E"
+    "channel_name": "HBOZON"
   },
   {
     "channel_order": 117,
@@ -469,15 +469,15 @@
   },
   {
     "channel_order": 118,
-    "channel_name": "AMX-E"
+    "channel_name": "ACTMAX"
   },
   {
     "channel_order": 119,
-    "channel_name": "MAXEAL"
+    "channel_name": "CINEMAX"
   },
   {
     "channel_order": 120,
-    "channel_name": "MMX-E"
+    "channel_name": "MOMAX"
   },
   {
     "channel_order": 121,
@@ -485,7 +485,7 @@
   },
   {
     "channel_order": 122,
-    "channel_name": "SHO2XE"
+    "channel_name": "SHO2"
   },
   {
     "channel_order": 123,
@@ -493,7 +493,7 @@
   },
   {
     "channel_order": 124,
-    "channel_name": "SHOX-E"
+    "channel_name": "SHOWEX"
   },
   {
     "channel_order": 125,
@@ -521,7 +521,7 @@
   },
   {
     "channel_order": 131,
-    "channel_name": "TMC2XE"
+    "channel_name": "TMCXTRA"
   },
   {
     "channel_order": 132,

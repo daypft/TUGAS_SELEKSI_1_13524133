@@ -1,0 +1,264 @@
+program_id,program_type_id,title,description,parental_rating
+1,4,ABC World News Now,"The hosts bring you overnight breaking news, weather, politics, and the stories and videos people will be talking about in the day ahead.",
+2,4,CBS News Roundup,,
+3,5,Local Programs,,
+4,4,Top Story with Tom Llamas,,
+5,4,Early Today,"A comprehensive, early morning look at the latest overnight news events from across the nation and around the world and includes regional and national weather forecasts, segments on business...",
+6,5,Bugs That Rule the World,,
+7,5,Breaking the Deadlock,,
+8,5,Once Upon a Time in Space,,
+9,5,Law & Order: Special Victims Unit,,
+10,5,Inogen Portable Oxygen - No More Tanks!,,
+11,5,Paid Program,Sponsored television programming.,G
+12,4,En casa con Telemundo,"Una entretenida mezcla de las noticias del entretenimiento, exclusivas con estrellas de la música, el cine y la televisión, presentaciones en vivo, y el estilo de vida de los famosos.",
+13,4,La mesa caliente,,
+14,5,Como dice el dicho,,
+15,5,Desiguales,,
+16,5,Vecinos,,
+17,4,Business Today,,
+18,4,Talking Movies,,
+19,4,BBC News,The latest news from the BBC.,
+20,5,Bloomberg: The Opening Trade,,
+21,5,The Pulse with Francine Lacqua,,
+22,5,Dateline,"Questions arise when the glamourous life of a model comes to a violent end and she is found floating face down at the bottom of her Florida home's pool, her body beaten and her children...",TV-14
+23,5,Squawk Box (Europe),,
+24,5,Anderson Cooper 360°,"Anderson Cooper reports on breaking news from around the world, providing an in-depth look at headline news as well as the underreported events of the day, with medical commentary from Dr...",
+25,5,CNN NewsNight with Abby Phillip,,
+26,4,U.S. House of Representatives,The House will complete work on the 2027 defense programs and policy (NDAA) bill and consider the GOP budget resolution for reconciliaiton 3.0 and legislation to ban stock trading by members...,
+27,5,Best Mattress Topper Ever!,,
+28,5,Kelsey Grammer's Historic Battles for America,,
+29,5,Hannity,,
+30,5,Gutfeld!,,
+31,5,Fox News @ Night,,
+32,5,Forensic Files,"When police investigators experience difficulty solving crimes, they seek the assistance of scientists who are able to uncover clues through the close examination of evidence using the most...",TV-14
+33,4,The 11th Hour with Ali Velshi,,
+34,4,All in with Chris Hayes,,
+35,4,The Briefing with Jen Psaki,,
+36,4,Katie Pavlich,,
+37,4,Cuomo,,
+38,4,On Balance with Leland Vittert,,
+39,2,College Football,,
+40,2,ACC Huddle,,
+41,2,Authentic ACC,,
+42,2,College Baseball,,
+43,2,2026 SBD World's Strongest Man,,
+44,2,SportsCenter,,
+45,2,The 2026 ESPYS,,
+46,2,NFL Live,,
+47,2,MLB Baseball,,
+48,2,Pardon the Interruption,,
+49,2,Donk Toss World Championship,,
+50,2,BBA Bubbleball,,
+51,2,Live Racing! International,,
+52,2,The Basketball Tournament,"from Memorial Coliseum in Lexington, Ky.",
+53,2,2026 FIFA World Cup,Norway at England from Miami Stadium,
+54,1,Malibooty!,,
+55,2,Golf Central,"Experts explore the latest news and reports surrounding the world of golf, including daily coverage from the biggest tournaments, live updates, highlights of top moments, in-depth analysis...",
+56,5,Wheeler Dealers: World Tour,,
+57,2,Team Highlights,"NFL Films provides a detailed look back at highlights of all 32 teams from the 2013 season, featuring wired up players and coaches during the biggest matchups, memorable plays and moments that...",
+58,2,The Insiders,,
+59,2,Quick Pitch,"Catch all the latest baseball news, scores and highlights plus your first look at upcoming matchups, all in one lightning-fast hour.",
+60,2,The Association,"Cameras give an all-access look at the top teams in the NBA throughout the season as they compete for a spot in the playoffs, showing the players and coaches on and off the court to show the...",
+61,5,NHL Tonight,"Updates from games taking place around the league as well as highlights, injury updates and postgame interviews with players and coaches; coverage includes discussion on the latest headlines...",
+62,2,Bowhunter TV,,
+63,2,Guns & Ammo TV,,
+64,2,Handguns,,
+65,2,Shooting USA,,
+66,2,SEC Now,,
+67,2,The Paul Finebaum Show,,
+68,2,Courtside,,
+69,5,Swamp Patrol,"In Arkansas, multiple units search for a suspect in thick woodland. A brave police dog jumps off a 60-foot bridge. A man hiding in swamp mud gets stuck. A car crashes into a lake with a child...",
+70,5,Against the Odds,"A detailed examination of the paratroopers of Fighting Fox Company, who fought and died in World War II battles from Normandy to Hitler's Eagle's Nest, demonstrating both dogged determination...",TV-PG
+71,5,Shadow Ops,,
+72,5,The Walking Dead: Dead City,"The Walking Dead: Dead City Season 3 is set for a July 26, 2026 premiere on AMC and AMC+. The upcoming season follows Maggie and Negan as they attempt to build a thriving community in...",TV-MA
+73,5,Naked and Afraid,,
+74,5,My Cat from Hell,,
+75,5,Criminal Minds,"Prentiss feels that she is ready to finally confront her nemesis, Ian Doyle, once and for all; the BAU team calls upon their beloved former team member in JJ to help them find Prentiss and...",TV-14
+76,5,The Jamie Foxx Show,Jamie and the family attempt to have a nice Thanksgiving dinner but when an unexpected accident befalls the head of the household the entire day is ruined with they are forced to go to the...,TV-PG
+77,5,Tyler Perry's House of Payne,,
+78,5,Tyler Perry's Assisted Living,Mr. Brown's girlfriend is furious to learn Anastasia is competing in the same pageant as her; Leah is shocked when Jeremy buys her a broom for a birthday gift.,TV-PG
+79,5,Reminisce,,
+80,3,Ben 10,,
+81,3,Tom and Jerry,Tom and Jerry try to do each other in during a fishing trip.,TV-PG
+82,3,Popeye the Sailor,"Bluto checks himself into the hospital to fake exhaustion so that he can get some rest and enjoy some peace and quiet, and when Popeye discovers what Bluto is up to, he plays a trick on his...",PG
+83,5,Next Gen NYC,,
+84,5,Watch What Happens: Live,,
+85,5,The Kelly Clarkson Show,,
+86,5,American Dad!,"Stan discovers that his favorite 1950s diner is closing, so he tries to ignite some 1950s enthusiasm to save the restaurant; Hayley takes advantage of the diner's closing by lobbying to be the...",TV-14
+87,5,Rick and Morty,"Morty and Summer go to camp, broh. Beth and Jerry home alone, broh.",TV-14
+88,5,The Golden Girls,,
+89,5,CMT Music,"CMT presents a selection of music videos from some of the hottest country music artists, showcasing a block of back-to-back hits performed by up-and-coming country music stars, as well as...",TV-PG
+90,5,South Park,"The town of South Park suddenly takes on the look of Japanese anime; Butters is horribly wounded when Stan, Kyle, Kenny and Cartman become warriors and conspire to purchase dangerous, illegal...",TV-MA
+91,5,Kids Baking Championship,"Valerie Bertinelli and Duff Goldman ask the remaining bakers to incorporate chilies, peppers, and cayenne into the chocolate items the bakers prepared causing the kids to be able to balance...",
+92,5,Cold Case Files,A college student disappears from his graveyard shift at a gas station; new forensic technology and the discovery of an illegal drug ring in a squeaky-clean town helps police solve the case...,TV-14
+93,5,BBQ Pitmasters,"The competition pits potential Pitmasters against one another in Salisbury, Md., where Purdue Chicken got its humble start, which is why the competitors are tasked with creating various...",TV-PG
+94,5,Beachfront Bargain Hunt,,
+95,5,Expedition Unknown,,
+96,5,Hustlers Gamblers Crooks,,
+97,5,Food Paradise,,
+98,5,Bakery Boss,,
+99,5,Kitchen Crashers,,
+100,5,My 600-lb Life,"After quitting his drug addiction, a man instead became addicted to food and soon found himself unable to stop even as he continues to put on weight.",TV-PG
+101,3,Big City Greens,"Gloria's café has a perfect rating, and she works hard to keep it that way until someone gives her a B rating; Bill drags his family along on a blackberry picking adventure and enforces a...",TV-Y7
+102,3,Kiff,,
+103,5,BeddyByes,,
+104,5,Disney's Mickey Mouse Clubhouse,"Mickey and the rest of the friends assist Goofy with completing his food deliveries for his lunch truck, which he calls ""Chef Goofy on the Go.""",TV-Y
+105,5,Bluey,"Mum encourages the family to play musical statues; Indy feels disappointed in her model horse, but her pals encourage her to not give up; Bluey and Bingo teach Unicorse good manners so that he...",TV-Y
+106,3,Big Hero 6,,
+107,3,DuckTales,Donald and Penumbra are forced to figure out how to escape from Moon Prison before they can warn planet Earth about an impending invasion; Dewey and Webby happen upon an evil conspiracy that...,TV-Y7
+108,3,Amphibia,,
+109,1,Royal Rendezvous,,
+110,1,Arranged Love,,
+111,5,Guy's Grocery Games,Three restaurant crews featuring family and longtime employees compete.,
+112,5,What’s Your Injury Case Worth?,,
+113,5,The 700 Club,,
+114,1,Man on Fire,,
+115,5,King of the Hill,"The Arlen City Council's ban on foods containing trans-fats leads Hank to get involved in a dirty battle between two rival lunch trucks that are trying to traffic their tasty, unhealthy fare...",TV-PG
+116,1,Big George Foreman: The Miraculous Story of the Once and Future Heavyweight,,
+117,1,Carousel,,
+118,5,24 Hour Flip,"Michelle and Jon work on a monstrous house as they venture outside of their comfort zone, and they have a hard time renovating the home's three bathrooms while also contending with supply...",TV-PG
+119,1,A Royal Icing Christmas,,
+120,1,Christmas on Candy Cane Lane,,
+121,5,Jeopardy!,,
+122,5,Family Feud,Two families composed of five members each compete against each other in a contest to see who can match more of their answers to survey questions with the most popular answers to the same...,TV-PG
+123,5,Bath Makeover,,
+124,5,The Waltons,"Erin has graduated from high school, but just as she was before graduating, she still has no direction where she wants her life to head, taking advice from anyone she can get to either go to...",
+125,5,Heartland,,
+126,5,Highway to Heaven,"A pastor attempts to change the decision of the church, which wishes for him to begin teaching lessons of religion within his preschool, and his belief in respect for other cultures stops him...",TV-PG
+127,5,"Murder, She Wrote",The theft of a priceless artifact from a Mexico City museum leads Jessica into a labyrinth of clues where murder is the fact behind the Mask of Montezuma.,TV-PG
+128,5,House Hunters,A couple with three children is feeling crowded in their current home and looking for more space in the Mojave Desert.,
+129,5,Ugliest House in America,,
+130,5,Scariest House in America,,
+131,5,Alone,,
+132,5,Alone: The Skills Challenge,,
+133,5,Three's Company,"Chrissy catches her father spending time with an unfamiliar woman and assumes that he is cheating on her mother; Reverend Snow has a chance at a new job in Santa Monica, but it requires that...",TV-PG
+134,5,See No Evil,,
+135,5,Body Cam,,
+136,5,Rizzoli & Isles,"When the squad begins to investigate a case that involves a wife having found her husband murdered, some of the evidence that they begin to uncover seems to point to the wife having lived a...",TV-14
+137,1,Yoga Teacher Killer: The Kaitlin Armstrong Story,,
+138,1,Paid Program,Sponsored television programming.,G
+139,5,RuPaul's Drag Race,"The ladies are assigned colors to work with off of the rainbow flag for a pride parade runway challenge; after designing boats for an off-the-wall challenge, several of the ladies struggle to...",TV-14
+140,5,Maine Cabin Masters,A family of four from Florida needs help renovating their dream home on a scenic lake in Maine if the cabin is going to be able to withstand the winter months and live up to their...,
+141,5,Barnwood Builders,,
+142,5,Ridiculousness,"Model and actress Charlotte McKinney joins Rob, Sterling and Chanel to cover ""Dirty Secrets,"" ""All Natural Beef"" and ""Spike My Butt.""",TV-14
+143,5,The Fresh Prince of Bel-Air,,
+144,5,The Wayans Bros.,"When a tabloid publishes a false story that names Marlon as the love slave of the all-female R&B group, En Vogue, the female quartet winds up filing a $25 million lawsuit against Marlon,...",TV-PG
+145,5,Lost Treasures of Rome,"Investigators discover traces of a crucial naval battle, using divers, an underwater robot and a crane, they haul a long-lost battleship relic to the surface, and reveal clues of how one...",TV-PG
+146,5,Shark Attack Files,,
+147,5,Jack Hanna's Passport,,
+148,5,Friends,Monica can't believe her eyes when her boyfriend reveals that he is really a student at a local high school; Ross can't help his feelings of jealousy when Rachel claims to have had a series of...,TV-14
+149,3,PAW Patrol,"When Luke Stars gets stuck on a mountain ledge on his way to Adventure Bay, he is unable to perform a song with Katie; Mayor Goodway's pet chicken Chickaletta, goes missing on Chicken Day and...",TV-Y
+150,3,Rubble & Crew,"Rubble & Crew work together to transform Builder Cove's beach boardwalk into a bright, festive, winter wonderland; when a snowy day gets in the way of Motor & Mix's Super Squirrely Whirly...",TV-Y
+151,3,SpongeBob SquarePants,Sandy invites Spongebob Squarepants to join her on her last week of wild fun before she has to settle in for hibernation; Spongebob and Patrick face the consequences of their negligence after...,TV-Y7
+152,5,The Art Of,,
+153,5,"Have Thinning Hair? Keranique Can Help Regrow Beautiful, Thicker Hair!",,
+154,5,The Aging Brain,,
+155,5,My Lottery Dream Home,"A couple who won $1 million from the New York lottery has decided to purchase a home in the city of Punta Gorda, Fla., so they attempt to buy their way into a classy retirement village with...",
+156,5,Love It or List It,,
+157,5,The Killer Among Us,,
+158,1,F9,,
+159,5,FBI,The team faces the demands of a kidnapper who abducted the director of a Brooklyn migrant center and his wife; Maggie uses Jessica to learn more about the ins and outs of motherhood.,TV-14
+160,5,On Patrol: Live,,
+161,5,Engineering Catastrophes,"A catastrophic fire at a fertilizer plant threatens city-wide devastation in Winston-Salem, N. C.; experts use the latest science to investigate and uncover an outdated, wooden storage...",TV-PG
+162,5,Secret Nazi Ruins,,
+163,5,Mayday: Air Disaster,"When three aircraft fall out of the sky, investigators are left to gather the pieces amid the severe conditions of the far North.",TV-14
+164,5,Law & Order,"Newly-discovered evidence will point the investigating detectives in the direction of a fascist youth gathering after the brutal beating and murder of a high school girl, but the teenagers are...",TV-14
+165,5,The Andy Griffith Show,,
+166,1,Cocaine Bear,,
+167,1,NCIS: Los Angeles,"Detective Deeks has his morning routine disrupted when he is shot during a convenience store robbery, leaving the NCIS team to investigate into the fact whether the assailants' intentions were...",TV-14
+168,5,The Office,"Michael finds himself unsettled after he hears some troubling rumors about Dunder Mifflin, and he forces the office into a day of strange diversions that leads everyone to wonder if he has...",TV-14
+169,1,Fiddler on the Roof,,
+170,3,The Loud House,"When Lily Loud starts misbehaving at home, Mom and Dad think her new preschool friends might be the cause; when Rusty is wrongfully suspended, the Action News Team leaps into action to clear...",TV-Y7
+171,5,Save My Skin,"The large tumours on Jennifer's scalp have left her with bald patches. Plus, Adam hopes to get a diagnosis for more than 60 lumps covering his body.",
+172,5,MILF Manor,,
+173,5,Cold Case,"Lilly brings up a family's suppressed and depressing memories when she reopens a case from 1982 in which an infant was found dead due to the possible actions of the older brother, who...",TV-14
+174,5,Paranormal Caught on Camera,"The owner of the Plough Inn in Doncaster, England, named Jane Bushell, claims to have captured footage of a destructive spirit wreaking havoc; footage of a Sasquatch-like creature and...",TV-PG
+175,5,Impractical Jokers: Inside Jokes,One Joker is an avid photographer; there are some words that the guys never want to hear before a punishment; one Joker is never afraid to strip down.,TV-14
+176,5,Seinfeld,"Jerry and Elaine try to discover the origin of a mysterious and pungent odor left in Jerry's car, which they trace back to a valet from a local restaurant; George becomes interesting in Susan...",TV-PG
+177,5,How I Met Your Mother,,
+178,5,Nick Cannon Presents: Wild 'N Out,WNBA star Skylar Diggins competes; rapper Vic Mensa performs.,TV-14
+179,5,QAnon: The Search for Q,"After the failed January 6 insurrection, Marley Clements and Bayan Joonam investigate a new war waged in local school boards and elections.",TV-14
+180,5,S.W.A.T.,Hondo and Lina are undercover to infiltrate and retrieve a cruise ship that has been attacked by drug smugglers who threaten to kill passengers; Street finds the competition in the SWAT...,TV-14
+181,5,The Braxtons,,
+182,5,Storm of Suspicion,"As Palm Beach, Fla., prepares for the incoming impact of Hurricane Andrew, a mother and her daughter are suddenly murdered in their home so the police team up with a forensic meteorologist to...",
+183,5,When Weather Changed History,,
+184,5,House of the Dragon,,
+185,5,"Life, Larry and the Pursuit of Unhappiness",,
+186,5,Warfare,,
+187,1,Deadpool 2,,
+188,1,House of the Dragon,,
+189,1,Mickey 17,,
+190,5,The Leftovers,"Kevin makes a strong-willed effort to rid himself of Patti and her influence on an unexpected field of battle, where a shocking, heart-rending choice is the definitive action that stands...",TV-MA
+191,1,Eddington,,
+192,1,The Long Walk,,
+193,1,Godzilla vs. Gigan,,
+194,1,Son of Godzilla,,
+195,1,Pirate Radio,,
+196,1,Heretic,,
+197,1,Body At Brighton Rock,,
+198,1,Happy Death Day,,
+199,1,Final Destination 5,,
+200,1,Shot Caller,,
+201,1,Y2K,,
+202,1,Faster,,
+203,1,Scream 4,,
+204,1,Daniela Forever,"After the death of his beloved girlfriend, a grieving man is given a new type of drug that invokes lucid dreams in an effort to help him overcome his pain, but mistreatment of the drug...",R
+205,1,Not Without Hope,,
+206,1,Undisputed,,
+207,1,THE RESURGENCE: DeMarcus Cousins,,
+208,1,The Comeback Trail,,
+209,1,Pootie Tang,,
+210,1,Star Trek: Insurrection,,
+211,1,Orange County,,
+212,1,Queen Bees,,
+213,1,Everybody Wants Some!!,,
+214,1,Good Burger,,
+215,1,Failure to Launch,,
+216,1,Virtuosity,,
+217,1,"South Park: Bigger, Longer & Uncut",,
+218,1,Day of the Fight,,
+219,1,Would You Rather,,
+220,1,All the World is Sleeping,,
+221,1,Scream 3,,
+222,1,Lara Croft: Tomb Raider,,
+223,1,Raiders of the Lost Ark,,
+224,1,Terms of Endearment,,
+225,1,Black Lotus,,
+226,1,The Beldham,,
+227,1,Bait,,
+228,1,The Man in the White Van,,
+229,1,Van Helsing,,
+230,1,Escape From Pretoria,,
+231,1,Rememory,,
+232,1,High School,,
+233,1,Hi-Life,,
+234,1,The Queen of Spain,,
+235,1,Crave,,
+236,1,Fairhaven,,
+237,1,Dreams,,
+238,1,My Dog the Champion,,
+239,1,Beautiful Wave,,
+240,1,The Strangers: Chapter 3,,
+241,1,The Hard Hit,,
+242,1,Girl in Progress,,
+243,1,Joey and Ella,,
+244,1,What's Cooking?,,
+245,1,The Woman in Green,,
+246,1,Transit,,
+247,1,The Grudge 2,,
+248,1,The Day,,
+249,1,High Ground,,
+250,1,The Hunting Party,,
+251,1,Marshall,,
+252,1,Macbeth,,
+253,1,Big Eyes,,
+254,1,Shotgun,,
+255,1,Don Ricardo Returns,,
+256,5,The Westies,,
+257,5,A House on the Bayou,,
+258,5,There's Something Wrong with the Children,,
+259,1,The Legend of Bagger Vance,,
+260,1,Boo! A Madea Halloween,,
+261,1,"LaRoy, Texas",,
+262,1,The Keep,,
+263,1,Audrey Rose,,

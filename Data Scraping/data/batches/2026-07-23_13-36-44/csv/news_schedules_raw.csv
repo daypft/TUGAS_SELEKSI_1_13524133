@@ -1,0 +1,23 @@
+channel_order,channel_name,program_order,program_title,start_time_raw,end_time_raw,is_new,is_live
+1,ABC,1,ABC World News Now,1:00 PM,4:00 PM,True,False
+2,CBS,1,CBS News Roundup,1:00 PM,4:00 PM,True,False
+3,NBC,1,Top Story with Tom Llamas,1:13 PM,2:00 PM,True,False
+3,NBC,2,Early Today,2:00 PM,2:30 PM,True,False
+3,NBC,3,Early Today,2:30 PM,3:00 PM,True,False
+3,NBC,4,Early Today,3:00 PM,3:30 PM,True,False
+4,TELMUN,1,En casa con Telemundo,1:00 PM,2:00 PM,False,False
+4,TELMUN,2,En casa con Telemundo,2:00 PM,3:00 PM,False,False
+4,TELMUN,3,La mesa caliente,3:00 PM,4:00 PM,False,False
+5,BBCNW,1,Business Today,1:30 PM,1:55 PM,False,True
+5,BBCNW,2,Talking Movies,1:55 PM,2:00 PM,False,False
+5,BBCNW,3,BBC News,2:00 PM,2:30 PM,False,True
+5,BBCNW,4,BBC News,2:30 PM,3:00 PM,False,True
+5,BBCNW,5,BBC News,3:00 PM,3:30 PM,False,True
+6,CSPAN,1,U.S. House of Representatives,1:00 PM,3:00 PM,False,False
+6,CSPAN,2,U.S. House of Representatives,3:00 PM,5:00 PM,False,False
+7,MSNOW,1,The 11th Hour with Ali Velshi,1:00 PM,2:00 PM,False,False
+7,MSNOW,2,All in with Chris Hayes,2:00 PM,3:00 PM,False,False
+7,MSNOW,3,The Briefing with Jen Psaki,3:00 PM,4:00 PM,False,False
+8,NEWSNAT,1,Katie Pavlich,1:00 PM,2:00 PM,False,False
+8,NEWSNAT,2,Cuomo,2:00 PM,3:00 PM,False,False
+8,NEWSNAT,3,On Balance with Leland Vittert,3:00 PM,4:00 PM,False,False

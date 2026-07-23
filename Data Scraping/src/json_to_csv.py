@@ -42,6 +42,8 @@ with open("Data Scraping/data/csv/program_details_raw.csv", mode="w", newline=""
             "channel_name",
             "program_order",
             "program_title",
+            "start_time_raw",
+            "end_time_raw",
             "duration_raw",
             "release_year",
             "rating",
