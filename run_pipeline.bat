@@ -5,8 +5,15 @@ cd /d "%~dp0"
 if not exist logs mkdir logs
 
 REM
+set "PYTHON_EXE=%~dp0.venv\Scripts\python.exe"
+
+if not exist "%PYTHON_EXE%" (
+    echo [%date% %time%] Virtual environment tidak ditemukan. >> logs\schedule.log
+    exit /b 1
+)
+
 echo [%date% %time%] Pipeline started >> logs\schedule.log
-"C:\Users\LENOVO\anaconda3\envs\lab\python.exe" main.py >> logs\schedule.log 2>&1
+"%PYTHON_EXE%" main.py >> logs\schedule.log 2>&1
 
 if errorlevel 1 (
     echo [%date% %time%] Pipeline failed with exit code %errorlevel% >> logs\schedule.log
