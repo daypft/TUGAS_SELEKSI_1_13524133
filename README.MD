@@ -482,6 +482,17 @@ powershell -ExecutionPolicy Bypass -File .\setup_scheduler.ps1 -Time 12:45
 
 Task menjalankan seluruh pipeline setiap hari. Batch sukses disimpan pada folder `Data Scraping/data/batches/` dan metadata menyimpan waktu ekstraksi untuk membandingkan batch yang berbeda.
 
+### Bukti Pembaruan Batch
+
+Berikut dua batch sukses yang tersimpan. Timestamp diambil langsung dari `scrape_metadata.json` pada masing-masing folder batch.
+
+| Batch | Timestamp ekstraksi (`scraped_at`) |
+|---|---|
+| `2026-07-23_12-45-02` | `2026-07-23T12:45:02.724065+07:00` |
+| `2026-07-23_13-55-28` | `2026-07-23T13:55:28.108742+07:00` |
+
+Perbedaan timestamp menunjukkan proses ekstraksi dapat menghasilkan batch baru. Database menggunakan *full refresh*, sehingga data pada DBMS diperbarui oleh batch terbaru tanpa menambahkan data duplikat dari batch sebelumnya.
+
 ---
 
 ## Bonus: Query Optimasi
