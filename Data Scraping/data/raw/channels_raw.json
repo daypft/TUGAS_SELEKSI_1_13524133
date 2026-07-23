@@ -1,0 +1,594 @@
+[
+  {
+    "channel_order": 1,
+    "channel_name": "ABC"
+  },
+  {
+    "channel_order": 2,
+    "channel_name": "CBS"
+  },
+  {
+    "channel_order": 3,
+    "channel_name": "FOX"
+  },
+  {
+    "channel_order": 4,
+    "channel_name": "NBC"
+  },
+  {
+    "channel_order": 5,
+    "channel_name": "PBS"
+  },
+  {
+    "channel_order": 6,
+    "channel_name": "CW"
+  },
+  {
+    "channel_order": 7,
+    "channel_name": "MYNET"
+  },
+  {
+    "channel_order": 8,
+    "channel_name": "ION-E"
+  },
+  {
+    "channel_order": 9,
+    "channel_name": "TELMUN"
+  },
+  {
+    "channel_order": 10,
+    "channel_name": "UNI-E"
+  },
+  {
+    "channel_order": 11,
+    "channel_name": "BBCNW"
+  },
+  {
+    "channel_order": 12,
+    "channel_name": "BLOOMBERG"
+  },
+  {
+    "channel_order": 13,
+    "channel_name": "CNBC"
+  },
+  {
+    "channel_order": 14,
+    "channel_name": "CNN"
+  },
+  {
+    "channel_order": 15,
+    "channel_name": "CSPA-1"
+  },
+  {
+    "channel_order": 16,
+    "channel_name": "FOXBN"
+  },
+  {
+    "channel_order": 17,
+    "channel_name": "FNC"
+  },
+  {
+    "channel_order": 18,
+    "channel_name": "HLN"
+  },
+  {
+    "channel_order": 19,
+    "channel_name": "MSNOW"
+  },
+  {
+    "channel_order": 20,
+    "channel_name": "NEWSNAT"
+  },
+  {
+    "channel_order": 21,
+    "channel_name": "ACCN"
+  },
+  {
+    "channel_order": 22,
+    "channel_name": "BTN"
+  },
+  {
+    "channel_order": 23,
+    "channel_name": "CBSSPT"
+  },
+  {
+    "channel_order": 24,
+    "channel_name": "ESPN"
+  },
+  {
+    "channel_order": 25,
+    "channel_name": "ESPN2"
+  },
+  {
+    "channel_order": 26,
+    "channel_name": "ESPNWS"
+  },
+  {
+    "channel_order": 27,
+    "channel_name": "ESPNU"
+  },
+  {
+    "channel_order": 28,
+    "channel_name": "FANDU"
+  },
+  {
+    "channel_order": 29,
+    "channel_name": "FS1"
+  },
+  {
+    "channel_order": 30,
+    "channel_name": "FS2"
+  },
+  {
+    "channel_order": 31,
+    "channel_name": "FUSEHD"
+  },
+  {
+    "channel_order": 32,
+    "channel_name": "GOLF"
+  },
+  {
+    "channel_order": 33,
+    "channel_name": "MTTREND"
+  },
+  {
+    "channel_order": 34,
+    "channel_name": "NFLNET"
+  },
+  {
+    "channel_order": 35,
+    "channel_name": "MLB"
+  },
+  {
+    "channel_order": 36,
+    "channel_name": "NBATV"
+  },
+  {
+    "channel_order": 37,
+    "channel_name": "NHLTV"
+  },
+  {
+    "channel_order": 38,
+    "channel_name": "OUTDRE"
+  },
+  {
+    "channel_order": 39,
+    "channel_name": "SECNET"
+  },
+  {
+    "channel_order": 40,
+    "channel_name": "TENNIS"
+  },
+  {
+    "channel_order": 41,
+    "channel_name": "A&E"
+  },
+  {
+    "channel_order": 42,
+    "channel_name": "AHC"
+  },
+  {
+    "channel_order": 43,
+    "channel_name": "AMCALL"
+  },
+  {
+    "channel_order": 44,
+    "channel_name": "ANIMAL"
+  },
+  {
+    "channel_order": 45,
+    "channel_name": "BBCAME"
+  },
+  {
+    "channel_order": 46,
+    "channel_name": "BET"
+  },
+  {
+    "channel_order": 47,
+    "channel_name": "BETHER"
+  },
+  {
+    "channel_order": 48,
+    "channel_name": "BOOM-E"
+  },
+  {
+    "channel_order": 49,
+    "channel_name": "BRAVO"
+  },
+  {
+    "channel_order": 50,
+    "channel_name": "TOON-E"
+  },
+  {
+    "channel_order": 51,
+    "channel_name": "CMTV"
+  },
+  {
+    "channel_order": 52,
+    "channel_name": "CMDY-E"
+  },
+  {
+    "channel_order": 53,
+    "channel_name": "COOKING"
+  },
+  {
+    "channel_order": 54,
+    "channel_name": "CRIMEINV"
+  },
+  {
+    "channel_order": 55,
+    "channel_name": "DESTAMER"
+  },
+  {
+    "channel_order": 56,
+    "channel_name": "TDC-E"
+  },
+  {
+    "channel_order": 57,
+    "channel_name": "DFCH"
+  },
+  {
+    "channel_order": 58,
+    "channel_name": "DLIF"
+  },
+  {
+    "channel_order": 59,
+    "channel_name": "DIS-E"
+  },
+  {
+    "channel_order": 60,
+    "channel_name": "DISNEYJR"
+  },
+  {
+    "channel_order": 61,
+    "channel_name": "DISNEYXD"
+  },
+  {
+    "channel_order": 62,
+    "channel_name": "ETV-E"
+  },
+  {
+    "channel_order": 63,
+    "channel_name": "FOODTV"
+  },
+  {
+    "channel_order": 64,
+    "channel_name": "FREEFRM"
+  },
+  {
+    "channel_order": 65,
+    "channel_name": "FX-E"
+  },
+  {
+    "channel_order": 66,
+    "channel_name": "FXX"
+  },
+  {
+    "channel_order": 67,
+    "channel_name": "FXM"
+  },
+  {
+    "channel_order": 68,
+    "channel_name": "FYI"
+  },
+  {
+    "channel_order": 69,
+    "channel_name": "GACFAM"
+  },
+  {
+    "channel_order": 70,
+    "channel_name": "GSN"
+  },
+  {
+    "channel_order": 71,
+    "channel_name": "HALMRK"
+  },
+  {
+    "channel_order": 72,
+    "channel_name": "HALLDRM"
+  },
+  {
+    "channel_order": 73,
+    "channel_name": "HALLMYS"
+  },
+  {
+    "channel_order": 74,
+    "channel_name": "HGTV"
+  },
+  {
+    "channel_order": 75,
+    "channel_name": "THC"
+  },
+  {
+    "channel_order": 76,
+    "channel_name": "IFC"
+  },
+  {
+    "channel_order": 77,
+    "channel_name": "ID"
+  },
+  {
+    "channel_order": 78,
+    "channel_name": "LIF-E"
+  },
+  {
+    "channel_order": 79,
+    "channel_name": "LMN"
+  },
+  {
+    "channel_order": 80,
+    "channel_name": "LOGO"
+  },
+  {
+    "channel_order": 81,
+    "channel_name": "MAGN"
+  },
+  {
+    "channel_order": 82,
+    "channel_name": "MTV-E"
+  },
+  {
+    "channel_order": 83,
+    "channel_name": "MTV2"
+  },
+  {
+    "channel_order": 84,
+    "channel_name": "NGC-E"
+  },
+  {
+    "channel_order": 85,
+    "channel_name": "NGEOWILD"
+  },
+  {
+    "channel_order": 86,
+    "channel_name": "NIC-E"
+  },
+  {
+    "channel_order": 87,
+    "channel_name": "NICKJR"
+  },
+  {
+    "channel_order": 88,
+    "channel_name": "NTOON"
+  },
+  {
+    "channel_order": 89,
+    "channel_name": "OVAT"
+  },
+  {
+    "channel_order": 90,
+    "channel_name": "OWN"
+  },
+  {
+    "channel_order": 91,
+    "channel_name": "OXGN-E"
+  },
+  {
+    "channel_order": 92,
+    "channel_name": "PARMT"
+  },
+  {
+    "channel_order": 93,
+    "channel_name": "POP"
+  },
+  {
+    "channel_order": 94,
+    "channel_name": "REELZ"
+  },
+  {
+    "channel_order": 95,
+    "channel_name": "SCIENCE"
+  },
+  {
+    "channel_order": 96,
+    "channel_name": "SMITHSON"
+  },
+  {
+    "channel_order": 97,
+    "channel_name": "SUN"
+  },
+  {
+    "channel_order": 98,
+    "channel_name": "SyFy"
+  },
+  {
+    "channel_order": 99,
+    "channel_name": "TBS"
+  },
+  {
+    "channel_order": 100,
+    "channel_name": "TCM"
+  },
+  {
+    "channel_order": 101,
+    "channel_name": "TEENNCK"
+  },
+  {
+    "channel_order": 102,
+    "channel_name": "TLC"
+  },
+  {
+    "channel_order": 103,
+    "channel_name": "TNT"
+  },
+  {
+    "channel_order": 104,
+    "channel_name": "TRAVEL"
+  },
+  {
+    "channel_order": 105,
+    "channel_name": "TRUTV"
+  },
+  {
+    "channel_order": 106,
+    "channel_name": "TVLAND"
+  },
+  {
+    "channel_order": 107,
+    "channel_name": "USA-E"
+  },
+  {
+    "channel_order": 108,
+    "channel_name": "VH-1E"
+  },
+  {
+    "channel_order": 109,
+    "channel_name": "VICE"
+  },
+  {
+    "channel_order": 110,
+    "channel_name": "WE"
+  },
+  {
+    "channel_order": 111,
+    "channel_name": "WEATH"
+  },
+  {
+    "channel_order": 112,
+    "channel_name": "HBOEAL"
+  },
+  {
+    "channel_order": 113,
+    "channel_name": "HBO2"
+  },
+  {
+    "channel_order": 114,
+    "channel_name": "HBOCOM"
+  },
+  {
+    "channel_order": 115,
+    "channel_name": "HBOSIG"
+  },
+  {
+    "channel_order": 116,
+    "channel_name": "HBOZON"
+  },
+  {
+    "channel_order": 117,
+    "channel_name": "5STMAX"
+  },
+  {
+    "channel_order": 118,
+    "channel_name": "ACTMAX"
+  },
+  {
+    "channel_order": 119,
+    "channel_name": "CINEMAX"
+  },
+  {
+    "channel_order": 120,
+    "channel_name": "MOMAX"
+  },
+  {
+    "channel_order": 121,
+    "channel_name": "ParSHO"
+  },
+  {
+    "channel_order": 122,
+    "channel_name": "SHO2"
+  },
+  {
+    "channel_order": 123,
+    "channel_name": "SHOBET"
+  },
+  {
+    "channel_order": 124,
+    "channel_name": "SHOWEX"
+  },
+  {
+    "channel_order": 125,
+    "channel_name": "SHOWFAM"
+  },
+  {
+    "channel_order": 126,
+    "channel_name": "SHOWNEXT"
+  },
+  {
+    "channel_order": 127,
+    "channel_name": "SHOCSE"
+  },
+  {
+    "channel_order": 128,
+    "channel_name": "SHOWWOM"
+  },
+  {
+    "channel_order": 129,
+    "channel_name": "FLIX-E"
+  },
+  {
+    "channel_order": 130,
+    "channel_name": "TMCEAL"
+  },
+  {
+    "channel_order": 131,
+    "channel_name": "TMC2XE"
+  },
+  {
+    "channel_order": 132,
+    "channel_name": "STARZ"
+  },
+  {
+    "channel_order": 133,
+    "channel_name": "STARZCIN"
+  },
+  {
+    "channel_order": 134,
+    "channel_name": "STARZCOM"
+  },
+  {
+    "channel_order": 135,
+    "channel_name": "STARZED"
+  },
+  {
+    "channel_order": 136,
+    "channel_name": "STARZBLK"
+  },
+  {
+    "channel_order": 137,
+    "channel_name": "STARZFAM"
+  },
+  {
+    "channel_order": 138,
+    "channel_name": "ENCORE"
+  },
+  {
+    "channel_order": 139,
+    "channel_name": "ENCORFM"
+  },
+  {
+    "channel_order": 140,
+    "channel_name": "ENCORSS"
+  },
+  {
+    "channel_order": 141,
+    "channel_name": "ENCRACT"
+  },
+  {
+    "channel_order": 142,
+    "channel_name": "ENCRBL"
+  },
+  {
+    "channel_order": 143,
+    "channel_name": "ENCRCL"
+  },
+  {
+    "channel_order": 144,
+    "channel_name": "ENCRWST"
+  },
+  {
+    "channel_order": 145,
+    "channel_name": "MGM+"
+  },
+  {
+    "channel_order": 146,
+    "channel_name": "MGM+DRV"
+  },
+  {
+    "channel_order": 147,
+    "channel_name": "MGM+HIT"
+  },
+  {
+    "channel_order": 148,
+    "channel_name": "MGM+MAR"
+  }
+]

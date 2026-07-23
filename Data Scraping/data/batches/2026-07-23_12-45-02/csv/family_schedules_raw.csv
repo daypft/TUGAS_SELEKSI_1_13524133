@@ -1,0 +1,33 @@
+channel_order,channel_name,program_order,program_title,start_time_raw,end_time_raw,is_new,is_live
+1,DIS-E,1,Big City Greens,12:30 PM,1:00 PM,False,False
+1,DIS-E,2,Big City Greens,1:00 PM,1:30 PM,False,False
+1,DIS-E,3,Big City Greens,1:30 PM,2:00 PM,False,False
+1,DIS-E,4,Big City Greens,2:00 PM,2:30 PM,False,False
+2,DISNEYJR,1,Bluey,12:20 PM,12:45 PM,False,False
+2,DISNEYJR,2,Bluey,12:45 PM,1:10 PM,False,False
+2,DISNEYJR,3,BeddyByes,1:10 PM,1:35 PM,False,False
+2,DISNEYJR,4,Disney's Mickey Mouse Clubhouse,1:35 PM,2:00 PM,False,False
+2,DISNEYJR,5,Disney's Mickey Mouse Clubhouse,2:00 PM,2:25 PM,False,False
+2,DISNEYJR,6,,,,False,False
+3,DISNEYXD,1,Disney's Lilo & Stitch: The Series,12:30 PM,1:00 PM,False,False
+3,DISNEYXD,2,Big Hero 6,1:00 PM,1:30 PM,False,False
+3,DISNEYXD,3,Big Hero 6,1:30 PM,2:00 PM,False,False
+3,DISNEYXD,4,DuckTales,2:00 PM,2:30 PM,False,False
+4,NICKJR,1,PAW Patrol,12:24 PM,12:51 PM,False,False
+4,NICKJR,2,PAW Patrol,12:51 PM,1:15 PM,False,False
+4,NICKJR,3,PAW Patrol,1:15 PM,1:39 PM,False,False
+4,NICKJR,4,PAW Patrol,1:39 PM,2:04 PM,False,False
+4,NICKJR,5,PAW Patrol,2:04 PM,2:28 PM,False,False
+4,NICKJR,6,,,,False,False
+5,NTOON,1,SpongeBob SquarePants,12:08 PM,12:34 PM,False,False
+5,NTOON,2,SpongeBob SquarePants,12:34 PM,1:00 PM,False,False
+5,NTOON,3,SpongeBob SquarePants,1:00 PM,1:25 PM,False,False
+5,NTOON,4,SpongeBob SquarePants,1:25 PM,1:50 PM,False,False
+5,NTOON,5,SpongeBob SquarePants,1:50 PM,2:15 PM,False,False
+5,NTOON,6,,,,False,False
+6,TEENNCK,1,,,,False,False
+6,TEENNCK,2,The Loud House,12:33 PM,1:00 PM,False,False
+6,TEENNCK,3,The Loud House,1:00 PM,1:24 PM,False,False
+6,TEENNCK,4,The Loud House,1:24 PM,1:48 PM,False,False
+6,TEENNCK,5,The Loud House,1:48 PM,2:12 PM,False,False
+6,TEENNCK,6,The Loud House,2:12 PM,2:36 PM,False,False

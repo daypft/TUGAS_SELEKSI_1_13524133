@@ -1,0 +1,20 @@
+channel_order,channel_name,program_order,program_title,start_time_raw,end_time_raw,is_new,is_live
+1,BBCNW,1,Business Today,12:30 PM,12:55 PM,False,True
+1,BBCNW,2,Talking Movies,,,False,True
+1,BBCNW,3,BBC News,1:00 PM,1:30 PM,False,True
+1,BBCNW,4,Business Today,1:30 PM,1:55 PM,False,True
+1,BBCNW,5,Talking Movies,1:55 PM,2:00 PM,False,False
+1,BBCNW,6,BBC News,2:00 PM,2:30 PM,False,True
+2,BLOOMBERG,1,Bloomberg Daybreak: Europe,12:00 PM,1:00 PM,False,True
+2,BLOOMBERG,2,Bloomberg: The Opening Trade,1:00 PM,3:00 PM,False,True
+3,CNN,1,The Story Is with Elex Michaelson,12:00 PM,1:00 PM,False,False
+3,CNN,2,Anderson Cooper 360°,1:00 PM,2:00 PM,False,False
+3,CNN,3,CNN NewsNight with Abby Phillip,2:00 PM,3:00 PM,False,False
+4,CSPA-1,1,U.S. House of Representatives,11:00 AM,1:00 PM,False,False
+4,CSPA-1,2,U.S. House of Representatives,1:00 PM,3:00 PM,False,False
+5,MSNOW,1,The Last Word with Lawrence O'Donnell,12:00 PM,1:00 PM,False,False
+5,MSNOW,2,The 11th Hour with Ali Velshi,1:00 PM,2:00 PM,False,False
+5,MSNOW,3,All in with Chris Hayes,2:00 PM,3:00 PM,False,False
+6,NEWSNAT,1,On Balance with Leland Vittert,12:00 PM,1:00 PM,False,False
+6,NEWSNAT,2,Katie Pavlich,1:00 PM,2:00 PM,False,False
+6,NEWSNAT,3,Cuomo,2:00 PM,3:00 PM,False,False

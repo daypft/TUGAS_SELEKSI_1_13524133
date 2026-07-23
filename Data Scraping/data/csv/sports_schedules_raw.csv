@@ -1,0 +1,40 @@
+channel_order,channel_name,program_order,program_title,start_time_raw,end_time_raw,is_new,is_live
+1,ACCN,1,College Football,11:00 AM,2:00 PM,False,False
+1,ACCN,2,ACC Huddle,2:00 PM,2:30 PM,False,False
+2,BTN,1,College Baseball,12:30 PM,3:30 PM,False,False
+3,CBSSPT,1,2026 SBD World's Strongest Man,12:00 PM,1:00 PM,False,False
+3,CBSSPT,2,2026 SBD World's Strongest Man,1:00 PM,2:00 PM,False,False
+3,CBSSPT,3,2026 SBD World's Strongest Man,2:00 PM,3:00 PM,False,False
+4,ESPN,1,SportsCenter,12:00 PM,1:00 PM,True,False
+4,ESPN,2,SportsCenter,1:00 PM,2:00 PM,False,False
+4,ESPN,3,SportsCenter,2:00 PM,3:00 PM,False,False
+5,ESPN2,1,Pardon the Interruption,12:30 PM,1:00 PM,False,False
+5,ESPN2,2,NFL Live,1:00 PM,2:00 PM,False,False
+5,ESPN2,3,MLB Baseball,2:00 PM,4:00 PM,False,True
+6,ESPNWS,1,X Games Chiba 2026,11:00 AM,1:00 PM,False,False
+6,ESPNWS,2,The Biggest Game,1:00 PM,1:30 PM,False,False
+6,ESPNWS,3,Pardon the Interruption,1:30 PM,2:00 PM,False,False
+6,ESPNWS,4,Donk Toss World Championship,2:00 PM,2:30 PM,False,False
+7,ESPNU,1,College Football,12:00 PM,3:00 PM,False,False
+8,FANDU,1,Live Racing! International,11:00 AM,11:00 PM,False,True
+9,FS1,1,The Basketball Tournament,12:30 PM,2:30 PM,False,False
+10,FS2,1,2026 FIFA World Cup,12:00 PM,2:00 PM,False,False
+10,FS2,2,2026 FIFA World Cup,2:00 PM,4:00 PM,False,False
+11,GOLF,1,R&A Highlights,12:30 PM,1:00 PM,False,False
+11,GOLF,2,Golfs Greatest Holes Series,1:00 PM,1:30 PM,False,False
+11,GOLF,3,Golf Central,1:30 PM,2:30 PM,False,False
+12,NFLNET,1,The Insiders,12:00 PM,1:00 PM,False,False
+12,NFLNET,2,Team Highlights,1:00 PM,1:30 PM,False,False
+12,NFLNET,3,Team Highlights,1:30 PM,2:00 PM,False,False
+12,NFLNET,4,Team Highlights,2:00 PM,2:30 PM,False,False
+13,MLB,1,Quick Pitch,12:00 PM,1:00 PM,False,False
+13,MLB,2,Quick Pitch,1:00 PM,2:00 PM,False,False
+13,MLB,3,Quick Pitch,2:00 PM,3:00 PM,False,False
+14,NBATV,1,The Association,11:00 AM,1:00 PM,False,False
+14,NBATV,2,The Association,1:00 PM,3:00 PM,False,False
+15,OUTDRE,1,Airgunner Challenge,12:30 PM,1:00 PM,False,False
+15,OUTDRE,2,North American Whitetail,1:00 PM,1:30 PM,False,False
+15,OUTDRE,3,Bowhunter TV,1:30 PM,2:00 PM,False,False
+15,OUTDRE,4,Guns & Ammo TV,2:00 PM,2:30 PM,False,False
+16,SECNET,1,SEC Now,8:00 AM,2:30 PM,False,False
+17,TENNIS,1,Courtside,11:00 AM,4:00 PM,False,False

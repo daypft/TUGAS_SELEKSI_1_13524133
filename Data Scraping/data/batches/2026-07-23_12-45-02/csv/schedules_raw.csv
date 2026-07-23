@@ -1,0 +1,425 @@
+channel_order,channel_name,program_order,program_title,start_time_raw,end_time_raw,is_new,is_live
+1,ABC,1,Local Programs,12:07 PM,1:00 PM,False,False
+1,ABC,2,ABC World News Now,1:00 PM,4:00 PM,True,False
+2,CBS,1,Funny You Should Ask,12:05 PM,12:35 PM,False,False
+2,CBS,2,Local Programs,12:35 PM,1:00 PM,False,False
+2,CBS,3,CBS News Roundup,1:00 PM,4:00 PM,True,False
+3,FOX,1,Local Programs,11:00 AM,5:00 PM,False,False
+4,NBC,1,Late Night with Seth Meyers,11:37 AM,12:38 PM,True,False
+4,NBC,2,NBC Nightly News with Tom Llamas,12:38 PM,1:13 PM,False,False
+4,NBC,3,Top Story with Tom Llamas,1:13 PM,2:00 PM,True,False
+4,NBC,4,Early Today,2:00 PM,2:30 PM,True,False
+5,PBS,1,NOVA,12:00 PM,1:00 PM,False,False
+5,PBS,2,Bugs That Rule the World,1:00 PM,2:00 PM,False,False
+5,PBS,3,Breaking the Deadlock,2:00 PM,3:00 PM,False,False
+6,CW,1,Local Programs,11:00 AM,5:00 PM,False,False
+7,MYNET,1,Local Programs,11:00 AM,5:00 PM,False,False
+8,ION-E,1,Law & Order: Special Victims Unit,12:00 PM,1:00 PM,False,False
+8,ION-E,2,Law & Order: Special Victims Unit,1:00 PM,2:00 PM,False,False
+8,ION-E,3,Inogen Portable Oxygen - No More Tanks!,2:00 PM,2:30 PM,False,False
+9,TELMUN,1,Caso cerrado,12:30 PM,1:00 PM,False,False
+9,TELMUN,2,En casa con Telemundo,1:00 PM,2:00 PM,False,False
+9,TELMUN,3,En casa con Telemundo,2:00 PM,3:00 PM,False,False
+10,UNI-E,1,Mañana es para siempre,12:00 PM,1:00 PM,False,False
+10,UNI-E,2,Como dice el dicho,1:00 PM,2:00 PM,False,False
+10,UNI-E,3,Desiguales,2:00 PM,3:00 PM,False,False
+11,BBCNW,1,Business Today,12:30 PM,12:55 PM,False,True
+11,BBCNW,2,Talking Movies,,,False,True
+11,BBCNW,3,BBC News,1:00 PM,1:30 PM,False,True
+11,BBCNW,4,Business Today,1:30 PM,1:55 PM,False,True
+11,BBCNW,5,Talking Movies,1:55 PM,2:00 PM,False,False
+11,BBCNW,6,BBC News,2:00 PM,2:30 PM,False,True
+12,BLOOMBERG,1,Bloomberg Daybreak: Europe,12:00 PM,1:00 PM,False,True
+12,BLOOMBERG,2,Bloomberg: The Opening Trade,1:00 PM,3:00 PM,False,True
+13,CNBC,1,"American Greed: Scams, Scoundrels and Scandals",12:30 PM,1:00 PM,False,False
+13,CNBC,2,Dateline,1:00 PM,2:00 PM,False,False
+13,CNBC,3,Dateline,2:00 PM,3:00 PM,False,False
+14,CNN,1,The Story Is with Elex Michaelson,12:00 PM,1:00 PM,False,False
+14,CNN,2,Anderson Cooper 360°,1:00 PM,2:00 PM,False,False
+14,CNN,3,CNN NewsNight with Abby Phillip,2:00 PM,3:00 PM,False,False
+15,CSPA-1,1,U.S. House of Representatives,11:00 AM,1:00 PM,False,False
+15,CSPA-1,2,U.S. House of Representatives,1:00 PM,3:00 PM,False,False
+16,FOXBN,1,Paid Program,12:30 PM,1:00 PM,False,False
+16,FOXBN,2,Paid Program,1:00 PM,1:30 PM,False,False
+16,FOXBN,3,Paid Program,1:30 PM,2:00 PM,False,False
+16,FOXBN,4,Best Mattress Topper Ever!,2:00 PM,2:30 PM,False,False
+17,FNC,1,Jesse Watters Primetime,12:00 PM,1:00 PM,False,False
+17,FNC,2,Hannity,1:00 PM,2:00 PM,False,False
+17,FNC,3,Gutfeld!,2:00 PM,3:00 PM,False,False
+18,HLN,1,Forensic Files,12:30 PM,1:00 PM,False,False
+18,HLN,2,Forensic Files,1:00 PM,1:30 PM,False,False
+18,HLN,3,Forensic Files,1:30 PM,2:00 PM,False,False
+18,HLN,4,Forensic Files,2:00 PM,2:30 PM,False,False
+19,MSNOW,1,The Last Word with Lawrence O'Donnell,12:00 PM,1:00 PM,False,False
+19,MSNOW,2,The 11th Hour with Ali Velshi,1:00 PM,2:00 PM,False,False
+19,MSNOW,3,All in with Chris Hayes,2:00 PM,3:00 PM,False,False
+20,NEWSNAT,1,On Balance with Leland Vittert,12:00 PM,1:00 PM,False,False
+20,NEWSNAT,2,Katie Pavlich,1:00 PM,2:00 PM,False,False
+20,NEWSNAT,3,Cuomo,2:00 PM,3:00 PM,False,False
+21,ACCN,1,College Football,11:00 AM,2:00 PM,False,False
+21,ACCN,2,ACC Huddle,2:00 PM,2:30 PM,False,False
+22,BTN,1,College Baseball,12:30 PM,3:30 PM,False,False
+23,CBSSPT,1,2026 SBD World's Strongest Man,12:00 PM,1:00 PM,False,False
+23,CBSSPT,2,2026 SBD World's Strongest Man,1:00 PM,2:00 PM,False,False
+23,CBSSPT,3,2026 SBD World's Strongest Man,2:00 PM,3:00 PM,False,False
+24,ESPN,1,SportsCenter,12:00 PM,1:00 PM,True,False
+24,ESPN,2,SportsCenter,1:00 PM,2:00 PM,False,False
+24,ESPN,3,SportsCenter,2:00 PM,3:00 PM,False,False
+25,ESPN2,1,Pardon the Interruption,12:30 PM,1:00 PM,False,False
+25,ESPN2,2,NFL Live,1:00 PM,2:00 PM,False,False
+25,ESPN2,3,MLB Baseball,2:00 PM,4:00 PM,False,True
+26,ESPNWS,1,X Games Chiba 2026,11:00 AM,1:00 PM,False,False
+26,ESPNWS,2,The Biggest Game,1:00 PM,1:30 PM,False,False
+26,ESPNWS,3,Pardon the Interruption,1:30 PM,2:00 PM,False,False
+26,ESPNWS,4,Donk Toss World Championship,2:00 PM,2:30 PM,False,False
+27,ESPNU,1,College Football,12:00 PM,3:00 PM,False,False
+28,FANDU,1,Live Racing! International,11:00 AM,11:00 PM,False,True
+29,FS1,1,The Basketball Tournament,12:30 PM,2:30 PM,False,False
+30,FS2,1,2026 FIFA World Cup,12:00 PM,2:00 PM,False,False
+30,FS2,2,2026 FIFA World Cup,2:00 PM,4:00 PM,False,False
+31,FUSEHD,1,Bodied,11:00 AM,1:30 PM,False,False
+31,FUSEHD,2,Malibooty!,1:30 PM,3:30 PM,False,False
+32,GOLF,1,R&A Highlights,12:30 PM,1:00 PM,False,False
+32,GOLF,2,Golfs Greatest Holes Series,1:00 PM,1:30 PM,False,False
+32,GOLF,3,Golf Central,1:30 PM,2:30 PM,False,False
+33,MTTREND,1,Wheeler Dealers: World Tour,12:00 PM,1:00 PM,False,False
+33,MTTREND,2,Wheeler Dealers: World Tour,1:00 PM,2:00 PM,False,False
+33,MTTREND,3,Wheeler Dealers: World Tour,2:00 PM,3:00 PM,False,False
+34,NFLNET,1,The Insiders,12:00 PM,1:00 PM,False,False
+34,NFLNET,2,Team Highlights,1:00 PM,1:30 PM,False,False
+34,NFLNET,3,Team Highlights,1:30 PM,2:00 PM,False,False
+34,NFLNET,4,Team Highlights,2:00 PM,2:30 PM,False,False
+35,MLB,1,Quick Pitch,12:00 PM,1:00 PM,False,False
+35,MLB,2,Quick Pitch,1:00 PM,2:00 PM,False,False
+35,MLB,3,Quick Pitch,2:00 PM,3:00 PM,False,False
+36,NBATV,1,The Association,11:00 AM,1:00 PM,False,False
+36,NBATV,2,The Association,1:00 PM,3:00 PM,False,False
+37,NHLTV,1,NHL Tonight,12:00 PM,1:00 PM,False,False
+37,NHLTV,2,NHL Tonight,1:00 PM,2:00 PM,False,False
+37,NHLTV,3,NHL Tonight,2:00 PM,3:00 PM,False,False
+38,OUTDRE,1,Airgunner Challenge,12:30 PM,1:00 PM,False,False
+38,OUTDRE,2,North American Whitetail,1:00 PM,1:30 PM,False,False
+38,OUTDRE,3,Bowhunter TV,1:30 PM,2:00 PM,False,False
+38,OUTDRE,4,Guns & Ammo TV,2:00 PM,2:30 PM,False,False
+39,SECNET,1,SEC Now,8:00 AM,2:30 PM,False,False
+40,TENNIS,1,Courtside,11:00 AM,4:00 PM,False,False
+41,A&E,1,,,,False,False
+41,A&E,2,My Strange Arrest,12:33 PM,1:04 PM,False,False
+41,A&E,3,Swamp Patrol,1:04 PM,1:34 PM,False,False
+41,A&E,4,Swamp Patrol,1:34 PM,2:05 PM,False,False
+41,A&E,5,Swamp Patrol,2:05 PM,2:34 PM,False,False
+42,AHC,1,Against the Odds,12:00 PM,1:00 PM,False,False
+42,AHC,2,Against the Odds,1:00 PM,2:00 PM,False,False
+42,AHC,3,Against the Odds,2:00 PM,3:00 PM,False,False
+43,AMCALL,1,The Walking Dead: Dead City,12:30 PM,1:40 PM,False,False
+43,AMCALL,2,,,,False,False
+43,AMCALL,3,The Walking Dead: Dead City,1:43 PM,2:39 PM,False,False
+44,ANIMAL,1,Naked and Afraid,11:00 AM,1:00 PM,False,False
+44,ANIMAL,2,Naked and Afraid,1:00 PM,3:00 PM,False,False
+45,BBCAME,1,Criminal Minds,12:00 PM,1:00 PM,False,False
+45,BBCAME,2,Criminal Minds,1:00 PM,2:00 PM,False,False
+45,BBCAME,3,Criminal Minds,2:00 PM,3:00 PM,False,False
+46,BET,1,Martin,12:30 PM,1:00 PM,False,False
+46,BET,2,Martin,1:00 PM,1:30 PM,False,False
+46,BET,3,The Jamie Foxx Show,1:30 PM,2:00 PM,False,False
+46,BET,4,The Jamie Foxx Show,2:00 PM,2:30 PM,False,False
+47,BETHER,1,Tyler Perry's Assisted Living,12:00 PM,12:36 PM,False,False
+47,BETHER,2,Tyler Perry's Assisted Living,12:36 PM,1:12 PM,False,False
+47,BETHER,3,Tyler Perry's Assisted Living,1:12 PM,1:48 PM,False,False
+47,BETHER,4,Tyler Perry's Assisted Living,1:48 PM,2:24 PM,False,False
+47,BETHER,5,,,,False,False
+48,BOOM-E,1,Jellystone!,12:30 PM,1:00 PM,False,False
+48,BOOM-E,2,Ben 10,1:00 PM,1:30 PM,False,False
+48,BOOM-E,3,Ben 10,1:30 PM,2:00 PM,False,False
+48,BOOM-E,4,Tom and Jerry,2:00 PM,2:10 PM,False,False
+48,BOOM-E,5,Tom and Jerry,2:10 PM,2:20 PM,False,False
+48,BOOM-E,6,Tom and Jerry,2:20 PM,2:30 PM,False,False
+49,BRAVO,1,Bad Moms,11:30 AM,1:30 PM,False,False
+49,BRAVO,2,Next Gen NYC,1:30 PM,2:30 PM,False,False
+50,TOON-E,1,Robot Chicken,12:19 PM,12:34 PM,False,False
+50,TOON-E,2,American Dad!,12:34 PM,1:03 PM,False,False
+50,TOON-E,3,American Dad!,1:03 PM,1:32 PM,False,False
+50,TOON-E,4,American Dad!,1:32 PM,2:01 PM,False,False
+50,TOON-E,5,American Dad!,2:01 PM,2:30 PM,False,False
+51,CMTV,1,The Golden Girls,12:30 PM,1:00 PM,False,False
+51,CMTV,2,The Golden Girls,1:00 PM,1:30 PM,False,False
+51,CMTV,3,The Golden Girls,1:30 PM,2:00 PM,False,False
+51,CMTV,4,CMT Music,2:00 PM,3:00 PM,False,False
+52,CMDY-E,1,South Park,12:30 PM,1:00 PM,False,False
+52,CMDY-E,2,South Park,1:00 PM,1:30 PM,False,False
+52,CMDY-E,3,South Park,1:30 PM,2:00 PM,False,False
+52,CMDY-E,4,South Park,2:00 PM,2:30 PM,False,False
+53,COOKING,1,Kids Baking Championship,12:00 PM,1:00 PM,False,False
+53,COOKING,2,Kids Baking Championship,1:00 PM,2:00 PM,False,False
+53,COOKING,3,Kids Baking Championship,2:00 PM,3:00 PM,False,False
+54,CRIMEINV,1,Cold Case Files,12:00 PM,1:00 PM,False,False
+54,CRIMEINV,2,Cold Case Files,1:00 PM,2:00 PM,False,False
+54,CRIMEINV,3,Cold Case Files,2:00 PM,3:00 PM,False,False
+55,DESTAMER,1,BBQ Pitmasters,12:00 PM,1:00 PM,False,False
+55,DESTAMER,2,BBQ Pitmasters,1:00 PM,2:00 PM,False,False
+55,DESTAMER,3,BBQ Pitmasters,2:00 PM,3:00 PM,False,False
+56,TDC-E,1,Expedition Unknown,12:00 PM,1:30 PM,False,False
+56,TDC-E,2,Expedition Unknown,1:30 PM,3:00 PM,False,False
+57,DFCH,1,Food Paradise,12:00 PM,1:00 PM,False,False
+57,DFCH,2,Food Paradise,1:00 PM,2:00 PM,False,False
+57,DFCH,3,Bakery Boss,2:00 PM,3:00 PM,False,False
+58,DLIF,1,My 600-lb Life,11:00 AM,1:00 PM,False,False
+58,DLIF,2,My 600-lb Life,1:00 PM,3:00 PM,False,False
+59,DIS-E,1,Big City Greens,12:30 PM,1:00 PM,False,False
+59,DIS-E,2,Big City Greens,1:00 PM,1:30 PM,False,False
+59,DIS-E,3,Big City Greens,1:30 PM,2:00 PM,False,False
+59,DIS-E,4,Big City Greens,2:00 PM,2:30 PM,False,False
+60,DISNEYJR,1,Bluey,12:20 PM,12:45 PM,False,False
+60,DISNEYJR,2,Bluey,12:45 PM,1:10 PM,False,False
+60,DISNEYJR,3,BeddyByes,1:10 PM,1:35 PM,False,False
+60,DISNEYJR,4,Disney's Mickey Mouse Clubhouse,1:35 PM,2:00 PM,False,False
+60,DISNEYJR,5,Disney's Mickey Mouse Clubhouse,2:00 PM,2:25 PM,False,False
+60,DISNEYJR,6,,,,False,False
+61,DISNEYXD,1,Disney's Lilo & Stitch: The Series,12:30 PM,1:00 PM,False,False
+61,DISNEYXD,2,Big Hero 6,1:00 PM,1:30 PM,False,False
+61,DISNEYXD,3,Big Hero 6,1:30 PM,2:00 PM,False,False
+61,DISNEYXD,4,DuckTales,2:00 PM,2:30 PM,False,False
+62,ETV-E,1,Why Can't My Life Be a Rom-Com?,11:00 AM,1:00 PM,False,False
+62,ETV-E,2,Royal Rendezvous,1:00 PM,3:00 PM,False,False
+63,FOODTV,1,Kitchen Chaos,12:30 PM,1:00 PM,False,False
+63,FOODTV,2,Guy's Grocery Games,1:00 PM,2:00 PM,False,False
+63,FOODTV,3,Guy's Grocery Games,2:00 PM,3:00 PM,False,False
+64,FREEFRM,1,According to Jim,12:30 PM,1:00 PM,False,False
+64,FREEFRM,2,Inogen Portable Oxygen - No More Tanks!,1:00 PM,1:30 PM,False,False
+64,FREEFRM,3,What’s Your Injury Case Worth?,1:30 PM,2:00 PM,False,False
+64,FREEFRM,4,The 700 Club,2:00 PM,3:00 PM,False,False
+65,FX-E,1,Alien: Resurrection,11:00 AM,1:00 PM,False,False
+65,FX-E,2,Man on Fire,1:00 PM,4:00 PM,False,False
+66,FXX,1,Futurama,12:30 PM,1:00 PM,False,False
+66,FXX,2,King of the Hill,1:00 PM,1:30 PM,False,False
+66,FXX,3,King of the Hill,1:30 PM,2:00 PM,False,False
+66,FXX,4,King of the Hill,2:00 PM,2:30 PM,False,False
+67,FXM,1,Big George Foreman: The Miraculous Story of the Once and Future Heavyweight,12:10 PM,2:50 PM,False,False
+68,FYI,1,24 Hour Flip,12:00 PM,1:00 PM,False,False
+68,FYI,2,24 Hour Flip,1:00 PM,2:01 PM,False,False
+68,FYI,3,24 Hour Flip,2:01 PM,3:00 PM,False,False
+69,GACFAM,1,The Trouble with Christmas Mistletoe,11:00 AM,1:00 PM,False,False
+69,GACFAM,2,A Royal Icing Christmas,1:00 PM,3:00 PM,False,False
+70,GSN,1,The Perfect Line,12:30 PM,1:00 PM,False,False
+70,GSN,2,Jeopardy!,1:00 PM,1:30 PM,False,False
+70,GSN,3,Jeopardy!,1:30 PM,2:00 PM,False,False
+70,GSN,4,Family Feud,2:00 PM,2:30 PM,False,False
+71,HALMRK,1,The Golden Girls,12:30 PM,1:00 PM,False,False
+71,HALMRK,2,The Waltons,1:00 PM,2:00 PM,False,False
+71,HALMRK,3,The Waltons,2:00 PM,3:00 PM,False,False
+72,HALLDRM,1,Heartland,12:00 PM,1:00 PM,False,False
+72,HALLDRM,2,Heartland,1:00 PM,2:00 PM,False,False
+72,HALLDRM,3,Highway to Heaven,2:00 PM,3:00 PM,False,False
+73,HALLMYS,1,"Murder, She Wrote",12:00 PM,1:00 PM,False,False
+73,HALLMYS,2,"Murder, She Wrote",1:00 PM,2:00 PM,False,False
+73,HALLMYS,3,"Murder, She Wrote",2:00 PM,3:00 PM,False,False
+74,HGTV,1,Worst Yard On The Block,12:30 PM,1:01 PM,False,False
+74,HGTV,2,House Hunters,1:01 PM,1:31 PM,False,False
+74,HGTV,3,House Hunters,1:31 PM,2:00 PM,False,False
+74,HGTV,4,Ugliest House in America,2:00 PM,3:00 PM,False,False
+75,THC,1,Alone,11:03 AM,12:35 PM,False,False
+75,THC,2,Forged in Fire,12:35 PM,1:33 PM,False,False
+75,THC,3,Alone,1:33 PM,2:32 PM,False,False
+76,IFC,1,Three's Company,12:30 PM,1:00 PM,False,False
+76,IFC,2,Three's Company,1:00 PM,1:30 PM,False,False
+76,IFC,3,Three's Company,1:30 PM,2:00 PM,False,False
+76,IFC,4,Three's Company,2:00 PM,2:30 PM,False,False
+77,ID,1,911: Did the Killer Call?,12:00 PM,1:00 PM,False,False
+77,ID,2,See No Evil,1:00 PM,2:00 PM,False,False
+77,ID,3,Body Cam,2:00 PM,3:00 PM,False,False
+78,LIF-E,1,Rizzoli & Isles,12:01 PM,1:04 PM,False,False
+78,LIF-E,2,Rizzoli & Isles,1:04 PM,2:04 PM,False,False
+78,LIF-E,3,Rizzoli & Isles,2:04 PM,3:02 PM,False,False
+79,LMN,1,A Husband to Die For: The Lisa Aguilar Story,11:01 AM,1:01 PM,False,False
+79,LMN,2,Yoga Teacher Killer: The Kaitlin Armstrong Story,1:01 PM,3:02 PM,False,False
+80,LOGO,1,RuPaul's Drag Race,11:59 AM,1:00 PM,False,False
+80,LOGO,2,RuPaul's Drag Race,1:00 PM,2:00 PM,False,False
+80,LOGO,3,RuPaul's Drag Race,2:00 PM,3:00 PM,False,False
+81,MAGN,1,Maine Cabin Masters,12:00 PM,1:00 PM,False,False
+81,MAGN,2,Maine Cabin Masters,1:00 PM,2:00 PM,False,False
+81,MAGN,3,Maine Cabin Masters,2:00 PM,3:00 PM,False,False
+82,MTV-E,1,Ridiculousness,12:30 PM,1:00 PM,False,False
+82,MTV-E,2,Ridiculousness,1:00 PM,1:30 PM,False,False
+82,MTV-E,3,Ridiculousness,1:30 PM,2:00 PM,False,False
+82,MTV-E,4,Ridiculousness,2:00 PM,2:30 PM,False,False
+83,MTV2,1,The Fresh Prince of Bel-Air,12:30 PM,1:00 PM,False,False
+83,MTV2,2,The Fresh Prince of Bel-Air,1:00 PM,1:30 PM,False,False
+83,MTV2,3,The Fresh Prince of Bel-Air,1:30 PM,2:00 PM,False,False
+83,MTV2,4,The Wayans Bros.,2:00 PM,2:30 PM,False,False
+84,NGC-E,1,Lost Treasures of Rome,12:00 PM,1:00 PM,False,False
+84,NGC-E,2,Lost Treasures of Rome,1:00 PM,2:00 PM,False,False
+84,NGC-E,3,Lost Treasures of Rome,2:00 PM,3:00 PM,False,False
+85,NGEOWILD,1,Shark Attack Files,11:00 AM,12:38 PM,False,False
+85,NGEOWILD,2,Shark Attack Files,12:38 PM,1:38 PM,False,False
+85,NGEOWILD,3,Jack Hanna's Passport,1:38 PM,2:00 PM,False,False
+85,NGEOWILD,4,Paid Program,2:00 PM,2:30 PM,False,False
+86,NIC-E,1,Friends,12:30 PM,1:00 PM,False,False
+86,NIC-E,2,Friends,1:00 PM,1:30 PM,False,False
+86,NIC-E,3,Friends,1:30 PM,2:00 PM,False,False
+86,NIC-E,4,Friends,2:00 PM,2:30 PM,False,False
+87,NICKJR,1,PAW Patrol,12:24 PM,12:51 PM,False,False
+87,NICKJR,2,PAW Patrol,12:51 PM,1:15 PM,False,False
+87,NICKJR,3,PAW Patrol,1:15 PM,1:39 PM,False,False
+87,NICKJR,4,PAW Patrol,1:39 PM,2:04 PM,False,False
+87,NICKJR,5,PAW Patrol,2:04 PM,2:28 PM,False,False
+87,NICKJR,6,,,,False,False
+88,NTOON,1,SpongeBob SquarePants,12:08 PM,12:34 PM,False,False
+88,NTOON,2,SpongeBob SquarePants,12:34 PM,1:00 PM,False,False
+88,NTOON,3,SpongeBob SquarePants,1:00 PM,1:25 PM,False,False
+88,NTOON,4,SpongeBob SquarePants,1:25 PM,1:50 PM,False,False
+88,NTOON,5,SpongeBob SquarePants,1:50 PM,2:15 PM,False,False
+88,NTOON,6,,,,False,False
+89,OVAT,1,Midsomer Murders,11:00 AM,1:30 PM,False,False
+89,OVAT,2,The Art Of,1:30 PM,2:00 PM,False,False
+89,OVAT,3,"Have Thinning Hair? Keranique Can Help Regrow Beautiful, Thicker Hair!",2:00 PM,2:30 PM,False,False
+90,OWN,1,My Lottery Dream Home,12:30 PM,1:00 PM,False,False
+90,OWN,2,My Lottery Dream Home,1:00 PM,1:30 PM,False,False
+90,OWN,3,My Lottery Dream Home,1:30 PM,2:00 PM,False,False
+90,OWN,4,My Lottery Dream Home,2:00 PM,2:30 PM,False,False
+91,OXGN-E,1,The Killer Among Us,12:00 PM,1:00 PM,False,False
+91,OXGN-E,2,The Killer Among Us,1:00 PM,2:00 PM,False,False
+91,OXGN-E,3,Dateline,2:00 PM,3:00 PM,False,False
+92,PARMT,1,Top Gun,10:30 AM,1:00 PM,False,False
+92,PARMT,2,F9,1:00 PM,4:00 PM,False,False
+93,POP,1,FBI,12:00 PM,1:00 PM,False,False
+93,POP,2,FBI,1:00 PM,2:00 PM,False,False
+93,POP,3,FBI,2:00 PM,3:00 PM,False,False
+94,REELZ,1,On Patrol: Live,11:00 AM,2:00 PM,False,False
+94,REELZ,2,The Aging Brain,2:00 PM,2:30 PM,False,False
+95,SCIENCE,1,Engineering Catastrophes,12:00 PM,1:00 PM,False,False
+95,SCIENCE,2,Engineering Catastrophes,1:00 PM,2:00 PM,False,False
+95,SCIENCE,3,Engineering Catastrophes,2:00 PM,3:00 PM,False,False
+96,SMITHSON,1,Mayday: Air Disaster,12:00 PM,1:00 PM,False,False
+96,SMITHSON,2,Mayday: Air Disaster,1:00 PM,2:00 PM,False,False
+96,SMITHSON,3,Mayday: Air Disaster,2:00 PM,3:00 PM,False,False
+97,SUN,1,Law & Order,12:00 PM,1:00 PM,False,False
+97,SUN,2,Law & Order,1:00 PM,2:00 PM,False,False
+97,SUN,3,Law & Order,2:00 PM,3:00 PM,False,False
+98,SyFy,1,Cocaine Bear,12:00 PM,2:00 PM,False,False
+98,SyFy,2,NCIS: Los Angeles,2:00 PM,3:00 PM,False,False
+99,TBS,1,The Office,12:30 PM,1:00 PM,False,False
+99,TBS,2,The Office,1:00 PM,1:30 PM,False,False
+99,TBS,3,The Office,1:30 PM,2:00 PM,False,False
+99,TBS,4,The Office,2:00 PM,2:30 PM,False,False
+100,TCM,1,A Soldier's Story,11:00 AM,1:00 PM,False,False
+100,TCM,2,Fiddler on the Roof,1:00 PM,4:15 PM,False,False
+101,TEENNCK,1,,,,False,False
+101,TEENNCK,2,The Loud House,12:33 PM,1:00 PM,False,False
+101,TEENNCK,3,The Loud House,1:00 PM,1:24 PM,False,False
+101,TEENNCK,4,The Loud House,1:24 PM,1:48 PM,False,False
+101,TEENNCK,5,The Loud House,1:48 PM,2:12 PM,False,False
+101,TEENNCK,6,The Loud House,2:12 PM,2:36 PM,False,False
+102,TLC,1,Most Extreme Humans,12:00 PM,1:00 PM,False,False
+102,TLC,2,Save My Skin,1:00 PM,2:00 PM,False,False
+102,TLC,3,Save My Skin,2:00 PM,3:00 PM,False,False
+103,TNT,1,Aquaman,10:00 AM,1:00 PM,False,False
+103,TNT,2,Cold Case,1:00 PM,2:00 PM,False,False
+103,TNT,3,Cold Case,2:00 PM,3:00 PM,False,False
+104,TRAVEL,1,Paranormal Caught on Camera,12:00 PM,1:00 PM,False,False
+104,TRAVEL,2,Paranormal Caught on Camera,1:00 PM,2:00 PM,False,False
+104,TRAVEL,3,Paranormal Caught on Camera,2:00 PM,3:00 PM,False,False
+105,TRUTV,1,Impractical Jokers: Inside Jokes,12:30 PM,1:00 PM,False,False
+105,TRUTV,2,Impractical Jokers: Inside Jokes,1:00 PM,1:30 PM,False,False
+105,TRUTV,3,Impractical Jokers: Inside Jokes,1:30 PM,2:00 PM,False,False
+105,TRUTV,4,Impractical Jokers: Inside Jokes,2:00 PM,2:30 PM,False,False
+106,TVLAND,1,The King of Queens,12:30 PM,1:00 PM,False,False
+106,TVLAND,2,Seinfeld,1:00 PM,1:30 PM,False,False
+106,TVLAND,3,Seinfeld,1:30 PM,2:00 PM,False,False
+106,TVLAND,4,Seinfeld,2:00 PM,2:30 PM,False,False
+107,USA-E,1,How I Met Your Mother,12:30 PM,1:00 PM,False,False
+107,USA-E,2,How I Met Your Mother,1:00 PM,1:30 PM,False,False
+107,USA-E,3,How I Met Your Mother,1:30 PM,2:00 PM,False,False
+107,USA-E,4,Dateline,2:00 PM,3:00 PM,False,False
+108,VH-1E,1,Nick Cannon Presents: Wild 'N Out,12:30 PM,1:00 PM,False,False
+108,VH-1E,2,Nick Cannon Presents: Wild 'N Out,1:00 PM,1:30 PM,False,False
+108,VH-1E,3,Nick Cannon Presents: Wild 'N Out,1:30 PM,2:00 PM,False,False
+108,VH-1E,4,Nick Cannon Presents: Wild 'N Out,2:00 PM,2:30 PM,False,False
+109,VICE,1,QAnon: The Search for Q,12:00 PM,1:00 PM,False,False
+109,VICE,2,QAnon: The Search for Q,1:00 PM,2:00 PM,False,False
+109,VICE,3,QAnon: The Search for Q,2:00 PM,3:00 PM,False,False
+110,WE,1,S.W.A.T.,12:00 PM,1:00 PM,False,False
+110,WE,2,S.W.A.T.,1:00 PM,2:00 PM,False,False
+110,WE,3,S.W.A.T.,2:00 PM,3:00 PM,False,False
+111,WEATH,1,Storm of Suspicion,12:00 PM,1:00 PM,False,False
+111,WEATH,2,Storm of Suspicion,1:00 PM,2:00 PM,False,False
+111,WEATH,3,Storm of Suspicion,2:00 PM,3:00 PM,False,False
+112,HBOEAL,1,House of the Dragon,12:30 PM,1:37 PM,False,False
+112,HBOEAL,2,"Life, Larry and the Pursuit of Unhappiness",1:37 PM,2:15 PM,False,False
+112,HBOEAL,3,Warfare,2:15 PM,3:55 PM,False,False
+113,HBO2,1,How to Make a Killing,10:48 AM,12:34 PM,False,False
+113,HBO2,2,Deadpool 2,12:34 PM,2:34 PM,False,False
+114,HBOCOM,1,MacGruber,11:48 AM,1:20 PM,False,False
+114,HBOCOM,2,Mickey 17,1:20 PM,3:37 PM,False,False
+115,HBOSIG,1,The Leftovers,11:48 AM,12:46 PM,False,False
+115,HBOSIG,2,The Leftovers,12:46 PM,1:49 PM,False,False
+115,HBOSIG,3,The Leftovers,1:49 PM,2:44 PM,False,False
+116,HBOZON,1,Eddington,11:45 AM,2:13 PM,False,False
+116,HBOZON,2,,,,False,False
+116,HBOZON,3,The Long Walk,2:14 PM,4:03 PM,False,False
+117,5STMAX,1,Godzilla vs. Gigan,12:11 PM,1:41 PM,False,False
+117,5STMAX,2,Son of Godzilla,1:41 PM,3:07 PM,False,False
+118,ACTMAX,1,Red Sparrow,10:16 AM,12:37 PM,False,False
+118,ACTMAX,2,Heretic,12:37 PM,2:29 PM,False,False
+118,ACTMAX,3,,,,False,False
+119,CINEMAX,1,The Final Destination,11:25 AM,12:47 PM,False,False
+119,CINEMAX,2,Happy Death Day,12:47 PM,2:24 PM,False,False
+119,CINEMAX,3,Final Destination 5,2:24 PM,3:57 PM,False,False
+120,MOMAX,1,Shot Caller,12:16 PM,2:17 PM,False,False
+120,MOMAX,2,Y2K,2:17 PM,3:49 PM,False,False
+121,ParSHO,1,Faster,12:05 PM,1:50 PM,False,False
+121,ParSHO,2,Scream 4,1:50 PM,3:45 PM,False,False
+122,SHO2,1,The Chi,12:00 PM,1:00 PM,False,False
+122,SHO2,2,Daniela Forever,1:00 PM,3:00 PM,False,False
+123,SHOBET,1,Soul Men,11:35 AM,1:15 PM,False,False
+123,SHOBET,2,Undisputed,1:15 PM,2:50 PM,False,False
+124,SHOWEX,1,Erotic Alien Encounter,12:10 PM,1:20 PM,False,False
+124,SHOWEX,2,The Comeback Trail,1:20 PM,3:10 PM,False,False
+125,SHOWFAM,1,Star Trek: Insurrection,12:00 PM,1:45 PM,False,False
+125,SHOWFAM,2,Orange County,1:45 PM,3:10 PM,False,False
+126,SHOWNEXT,1,Everybody Wants Some!!,11:35 AM,1:35 PM,False,False
+126,SHOWNEXT,2,Good Burger,1:35 PM,3:15 PM,False,False
+127,SHOCSE,1,Virtuosity,12:00 PM,1:50 PM,False,False
+127,SHOCSE,2,"South Park: Bigger, Longer & Uncut",1:50 PM,3:15 PM,False,False
+128,SHOWWOM,1,Would You Rather,12:05 PM,1:40 PM,False,False
+128,SHOWWOM,2,All the World is Sleeping,1:40 PM,3:35 PM,False,False
+129,FLIX-E,1,Scream 3,12:30 PM,2:30 PM,False,False
+130,TMCEAL,1,Sin City: A Dame to Kill For,11:15 AM,1:00 PM,False,False
+130,TMCEAL,2,Raiders of the Lost Ark,1:00 PM,3:00 PM,False,False
+131,TMC2XE,1,The Dictator,12:00 PM,1:25 PM,False,False
+131,TMC2XE,2,Black Lotus,1:25 PM,3:00 PM,False,False
+132,STARZ,1,Bait,11:31 AM,1:34 PM,False,False
+132,STARZ,2,The Man in the White Van,1:34 PM,3:22 PM,False,False
+133,STARZCIN,1,Escape From Pretoria,12:20 PM,2:07 PM,False,False
+133,STARZCIN,2,Rememory,2:07 PM,4:00 PM,False,False
+134,STARZCOM,1,High School,12:14 PM,1:55 PM,False,False
+134,STARZCOM,2,Hi-Life,1:55 PM,3:22 PM,False,False
+135,STARZED,1,Mercenaries,11:54 AM,1:32 PM,False,False
+135,STARZED,2,Crave,1:32 PM,3:26 PM,False,False
+136,STARZBLK,1,How She Move,11:51 AM,1:23 PM,False,False
+136,STARZBLK,2,Dreams,1:23 PM,3:44 PM,False,False
+137,STARZFAM,1,The Magic of the Golden Bear: Goldy III,11:47 AM,1:33 PM,False,False
+137,STARZFAM,2,My Dog the Champion,1:33 PM,3:01 PM,False,False
+138,ENCORE,1,The Strangers: Chapter 2,11:49 AM,1:31 PM,False,False
+138,ENCORE,2,The Strangers: Chapter 3,1:31 PM,3:06 PM,False,False
+139,ENCORFM,1,Girl in Progress,12:02 PM,1:36 PM,False,False
+139,ENCORFM,2,Joey and Ella,1:36 PM,3:06 PM,False,False
+140,ENCORSS,1,Leprechaun: Origins,11:43 AM,1:15 PM,False,False
+140,ENCORSS,2,The Woman in Green,1:15 PM,2:24 PM,False,False
+140,ENCORSS,3,Transit,2:24 PM,3:53 PM,False,False
+141,ENCRACT,1,The Grudge 2,12:08 PM,1:51 PM,False,False
+141,ENCRACT,2,The Day,1:51 PM,3:16 PM,False,False
+142,ENCRBL,1,Malcolm X,9:39 AM,1:01 PM,False,False
+142,ENCRBL,2,The Hunting Party,1:01 PM,2:43 PM,False,False
+143,ENCRCL,1,Macbeth,12:04 PM,1:58 PM,False,False
+143,ENCRCL,2,Big Eyes,1:58 PM,3:45 PM,False,False
+144,ENCRWST,1,Billy the Kid,12:00 PM,1:21 PM,False,False
+144,ENCRWST,2,Shotgun,1:21 PM,2:42 PM,False,False
+145,MGM+,1,Changing Lanes,11:25 AM,1:05 PM,False,False
+145,MGM+,2,The Westies,1:05 PM,1:55 PM,False,False
+145,MGM+,3,A House on the Bayou,1:55 PM,3:25 PM,False,False
+146,MGM+DRV,1,Seabiscuit,11:00 AM,1:25 PM,False,False
+146,MGM+DRV,2,The Legend of Bagger Vance,1:25 PM,3:35 PM,False,False
+147,MGM+HIT,1,Boo! A Madea Halloween,12:20 PM,2:05 PM,False,False
+147,MGM+HIT,2,"LaRoy, Texas",2:05 PM,4:00 PM,False,False
+148,MGM+MAR,1,Cujo,11:50 AM,1:25 PM,False,False
+148,MGM+MAR,2,The Keep,1:25 PM,3:05 PM,False,False

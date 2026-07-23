@@ -1,0 +1,322 @@
+[
+  {
+    "channel_order": 1,
+    "channel_name": "DIS-E",
+    "program_order": 1,
+    "program_title": "Big City Greens",
+    "start_time_raw": "12:30 PM",
+    "end_time_raw": "1:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 1,
+    "channel_name": "DIS-E",
+    "program_order": 2,
+    "program_title": "Big City Greens",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "1:30 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 1,
+    "channel_name": "DIS-E",
+    "program_order": 3,
+    "program_title": "Big City Greens",
+    "start_time_raw": "1:30 PM",
+    "end_time_raw": "2:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 1,
+    "channel_name": "DIS-E",
+    "program_order": 4,
+    "program_title": "Big City Greens",
+    "start_time_raw": "2:00 PM",
+    "end_time_raw": "2:30 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 2,
+    "channel_name": "DISNEYJR",
+    "program_order": 1,
+    "program_title": "Bluey",
+    "start_time_raw": "12:20 PM",
+    "end_time_raw": "12:45 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 2,
+    "channel_name": "DISNEYJR",
+    "program_order": 2,
+    "program_title": "Bluey",
+    "start_time_raw": "12:45 PM",
+    "end_time_raw": "1:10 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 2,
+    "channel_name": "DISNEYJR",
+    "program_order": 3,
+    "program_title": "BeddyByes",
+    "start_time_raw": "1:10 PM",
+    "end_time_raw": "1:35 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 2,
+    "channel_name": "DISNEYJR",
+    "program_order": 4,
+    "program_title": "Disney's Mickey Mouse Clubhouse",
+    "start_time_raw": "1:35 PM",
+    "end_time_raw": "2:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 2,
+    "channel_name": "DISNEYJR",
+    "program_order": 5,
+    "program_title": "Disney's Mickey Mouse Clubhouse",
+    "start_time_raw": "2:00 PM",
+    "end_time_raw": "2:25 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 2,
+    "channel_name": "DISNEYJR",
+    "program_order": 6,
+    "program_title": "",
+    "start_time_raw": null,
+    "end_time_raw": null,
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 3,
+    "channel_name": "DISNEYXD",
+    "program_order": 1,
+    "program_title": "Disney's Lilo & Stitch: The Series",
+    "start_time_raw": "12:30 PM",
+    "end_time_raw": "1:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 3,
+    "channel_name": "DISNEYXD",
+    "program_order": 2,
+    "program_title": "Big Hero 6",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "1:30 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 3,
+    "channel_name": "DISNEYXD",
+    "program_order": 3,
+    "program_title": "Big Hero 6",
+    "start_time_raw": "1:30 PM",
+    "end_time_raw": "2:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 3,
+    "channel_name": "DISNEYXD",
+    "program_order": 4,
+    "program_title": "DuckTales",
+    "start_time_raw": "2:00 PM",
+    "end_time_raw": "2:30 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 4,
+    "channel_name": "NICKJR",
+    "program_order": 1,
+    "program_title": "PAW Patrol",
+    "start_time_raw": "12:24 PM",
+    "end_time_raw": "12:51 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 4,
+    "channel_name": "NICKJR",
+    "program_order": 2,
+    "program_title": "PAW Patrol",
+    "start_time_raw": "12:51 PM",
+    "end_time_raw": "1:15 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 4,
+    "channel_name": "NICKJR",
+    "program_order": 3,
+    "program_title": "PAW Patrol",
+    "start_time_raw": "1:15 PM",
+    "end_time_raw": "1:39 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 4,
+    "channel_name": "NICKJR",
+    "program_order": 4,
+    "program_title": "PAW Patrol",
+    "start_time_raw": "1:39 PM",
+    "end_time_raw": "2:04 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 4,
+    "channel_name": "NICKJR",
+    "program_order": 5,
+    "program_title": "PAW Patrol",
+    "start_time_raw": "2:04 PM",
+    "end_time_raw": "2:28 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 4,
+    "channel_name": "NICKJR",
+    "program_order": 6,
+    "program_title": "",
+    "start_time_raw": null,
+    "end_time_raw": null,
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 5,
+    "channel_name": "NTOON",
+    "program_order": 1,
+    "program_title": "SpongeBob SquarePants",
+    "start_time_raw": "12:08 PM",
+    "end_time_raw": "12:34 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 5,
+    "channel_name": "NTOON",
+    "program_order": 2,
+    "program_title": "SpongeBob SquarePants",
+    "start_time_raw": "12:34 PM",
+    "end_time_raw": "1:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 5,
+    "channel_name": "NTOON",
+    "program_order": 3,
+    "program_title": "SpongeBob SquarePants",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "1:25 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 5,
+    "channel_name": "NTOON",
+    "program_order": 4,
+    "program_title": "SpongeBob SquarePants",
+    "start_time_raw": "1:25 PM",
+    "end_time_raw": "1:50 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 5,
+    "channel_name": "NTOON",
+    "program_order": 5,
+    "program_title": "SpongeBob SquarePants",
+    "start_time_raw": "1:50 PM",
+    "end_time_raw": "2:15 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 5,
+    "channel_name": "NTOON",
+    "program_order": 6,
+    "program_title": "",
+    "start_time_raw": null,
+    "end_time_raw": null,
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 6,
+    "channel_name": "TEENNCK",
+    "program_order": 1,
+    "program_title": "",
+    "start_time_raw": null,
+    "end_time_raw": null,
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 6,
+    "channel_name": "TEENNCK",
+    "program_order": 2,
+    "program_title": "The Loud House",
+    "start_time_raw": "12:33 PM",
+    "end_time_raw": "1:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 6,
+    "channel_name": "TEENNCK",
+    "program_order": 3,
+    "program_title": "The Loud House",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "1:24 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 6,
+    "channel_name": "TEENNCK",
+    "program_order": 4,
+    "program_title": "The Loud House",
+    "start_time_raw": "1:24 PM",
+    "end_time_raw": "1:48 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 6,
+    "channel_name": "TEENNCK",
+    "program_order": 5,
+    "program_title": "The Loud House",
+    "start_time_raw": "1:48 PM",
+    "end_time_raw": "2:12 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 6,
+    "channel_name": "TEENNCK",
+    "program_order": 6,
+    "program_title": "The Loud House",
+    "start_time_raw": "2:12 PM",
+    "end_time_raw": "2:36 PM",
+    "is_new": false,
+    "is_live": false
+  }
+]

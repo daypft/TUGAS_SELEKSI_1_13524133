@@ -1,0 +1,942 @@
+[
+  {
+    "channel_order": 1,
+    "channel_name": "FUSEHD",
+    "program_order": 1,
+    "program_title": "Bodied",
+    "start_time_raw": "11:00 AM",
+    "end_time_raw": "1:30 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 1,
+    "channel_name": "FUSEHD",
+    "program_order": 2,
+    "program_title": "Malibooty!",
+    "start_time_raw": "1:30 PM",
+    "end_time_raw": "3:30 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 2,
+    "channel_name": "BRAVO",
+    "program_order": 1,
+    "program_title": "Bad Moms",
+    "start_time_raw": "11:30 AM",
+    "end_time_raw": "1:30 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 2,
+    "channel_name": "BRAVO",
+    "program_order": 2,
+    "program_title": "Next Gen NYC",
+    "start_time_raw": "1:30 PM",
+    "end_time_raw": "2:30 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 3,
+    "channel_name": "ETV-E",
+    "program_order": 1,
+    "program_title": "Why Can't My Life Be a Rom-Com?",
+    "start_time_raw": "11:00 AM",
+    "end_time_raw": "1:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 3,
+    "channel_name": "ETV-E",
+    "program_order": 2,
+    "program_title": "Royal Rendezvous",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "3:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 4,
+    "channel_name": "FX-E",
+    "program_order": 1,
+    "program_title": "Alien: Resurrection",
+    "start_time_raw": "11:00 AM",
+    "end_time_raw": "1:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 4,
+    "channel_name": "FX-E",
+    "program_order": 2,
+    "program_title": "Man on Fire",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "4:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 5,
+    "channel_name": "FXM",
+    "program_order": 1,
+    "program_title": "Big George Foreman: The Miraculous Story of the Once and Future Heavyweight",
+    "start_time_raw": "12:10 PM",
+    "end_time_raw": "2:50 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 6,
+    "channel_name": "GACFAM",
+    "program_order": 1,
+    "program_title": "The Trouble with Christmas Mistletoe",
+    "start_time_raw": "11:00 AM",
+    "end_time_raw": "1:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 6,
+    "channel_name": "GACFAM",
+    "program_order": 2,
+    "program_title": "A Royal Icing Christmas",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "3:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 7,
+    "channel_name": "LMN",
+    "program_order": 1,
+    "program_title": "A Husband to Die For: The Lisa Aguilar Story",
+    "start_time_raw": "11:01 AM",
+    "end_time_raw": "1:01 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 7,
+    "channel_name": "LMN",
+    "program_order": 2,
+    "program_title": "Yoga Teacher Killer: The Kaitlin Armstrong Story",
+    "start_time_raw": "1:01 PM",
+    "end_time_raw": "3:02 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 8,
+    "channel_name": "PARMT",
+    "program_order": 1,
+    "program_title": "Top Gun",
+    "start_time_raw": "10:30 AM",
+    "end_time_raw": "1:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 8,
+    "channel_name": "PARMT",
+    "program_order": 2,
+    "program_title": "F9",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "4:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 9,
+    "channel_name": "SyFy",
+    "program_order": 1,
+    "program_title": "Cocaine Bear",
+    "start_time_raw": "12:00 PM",
+    "end_time_raw": "2:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 9,
+    "channel_name": "SyFy",
+    "program_order": 2,
+    "program_title": "NCIS: Los Angeles",
+    "start_time_raw": "2:00 PM",
+    "end_time_raw": "3:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 10,
+    "channel_name": "TCM",
+    "program_order": 1,
+    "program_title": "A Soldier's Story",
+    "start_time_raw": "11:00 AM",
+    "end_time_raw": "1:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 10,
+    "channel_name": "TCM",
+    "program_order": 2,
+    "program_title": "Fiddler on the Roof",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "4:15 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 11,
+    "channel_name": "TNT",
+    "program_order": 1,
+    "program_title": "Aquaman",
+    "start_time_raw": "10:00 AM",
+    "end_time_raw": "1:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 11,
+    "channel_name": "TNT",
+    "program_order": 2,
+    "program_title": "Cold Case",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "2:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 11,
+    "channel_name": "TNT",
+    "program_order": 3,
+    "program_title": "Cold Case",
+    "start_time_raw": "2:00 PM",
+    "end_time_raw": "3:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 12,
+    "channel_name": "HBO2",
+    "program_order": 1,
+    "program_title": "How to Make a Killing",
+    "start_time_raw": "10:48 AM",
+    "end_time_raw": "12:34 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 12,
+    "channel_name": "HBO2",
+    "program_order": 2,
+    "program_title": "Deadpool 2",
+    "start_time_raw": "12:34 PM",
+    "end_time_raw": "2:34 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 13,
+    "channel_name": "HBOCOM",
+    "program_order": 1,
+    "program_title": "MacGruber",
+    "start_time_raw": "11:48 AM",
+    "end_time_raw": "1:20 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 13,
+    "channel_name": "HBOCOM",
+    "program_order": 2,
+    "program_title": "Mickey 17",
+    "start_time_raw": "1:20 PM",
+    "end_time_raw": "3:37 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 14,
+    "channel_name": "HBOZON",
+    "program_order": 1,
+    "program_title": "Eddington",
+    "start_time_raw": "11:45 AM",
+    "end_time_raw": "2:13 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 14,
+    "channel_name": "HBOZON",
+    "program_order": 2,
+    "program_title": "",
+    "start_time_raw": null,
+    "end_time_raw": null,
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 14,
+    "channel_name": "HBOZON",
+    "program_order": 3,
+    "program_title": "The Long Walk",
+    "start_time_raw": "2:14 PM",
+    "end_time_raw": "4:03 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 15,
+    "channel_name": "5STMAX",
+    "program_order": 1,
+    "program_title": "Godzilla vs. Gigan",
+    "start_time_raw": "12:11 PM",
+    "end_time_raw": "1:41 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 15,
+    "channel_name": "5STMAX",
+    "program_order": 2,
+    "program_title": "Son of Godzilla",
+    "start_time_raw": "1:41 PM",
+    "end_time_raw": "3:07 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 16,
+    "channel_name": "ACTMAX",
+    "program_order": 1,
+    "program_title": "Red Sparrow",
+    "start_time_raw": "10:16 AM",
+    "end_time_raw": "12:37 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 16,
+    "channel_name": "ACTMAX",
+    "program_order": 2,
+    "program_title": "Heretic",
+    "start_time_raw": "12:37 PM",
+    "end_time_raw": "2:29 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 16,
+    "channel_name": "ACTMAX",
+    "program_order": 3,
+    "program_title": "",
+    "start_time_raw": null,
+    "end_time_raw": null,
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 17,
+    "channel_name": "CINEMAX",
+    "program_order": 1,
+    "program_title": "The Final Destination",
+    "start_time_raw": "11:25 AM",
+    "end_time_raw": "12:47 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 17,
+    "channel_name": "CINEMAX",
+    "program_order": 2,
+    "program_title": "Happy Death Day",
+    "start_time_raw": "12:47 PM",
+    "end_time_raw": "2:24 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 17,
+    "channel_name": "CINEMAX",
+    "program_order": 3,
+    "program_title": "Final Destination 5",
+    "start_time_raw": "2:24 PM",
+    "end_time_raw": "3:57 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 18,
+    "channel_name": "MOMAX",
+    "program_order": 1,
+    "program_title": "Shot Caller",
+    "start_time_raw": "12:16 PM",
+    "end_time_raw": "2:17 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 18,
+    "channel_name": "MOMAX",
+    "program_order": 2,
+    "program_title": "Y2K",
+    "start_time_raw": "2:17 PM",
+    "end_time_raw": "3:49 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 19,
+    "channel_name": "ParSHO",
+    "program_order": 1,
+    "program_title": "Faster",
+    "start_time_raw": "12:05 PM",
+    "end_time_raw": "1:50 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 19,
+    "channel_name": "ParSHO",
+    "program_order": 2,
+    "program_title": "Scream 4",
+    "start_time_raw": "1:50 PM",
+    "end_time_raw": "3:45 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 20,
+    "channel_name": "SHOBET",
+    "program_order": 1,
+    "program_title": "Soul Men",
+    "start_time_raw": "11:35 AM",
+    "end_time_raw": "1:15 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 20,
+    "channel_name": "SHOBET",
+    "program_order": 2,
+    "program_title": "Undisputed",
+    "start_time_raw": "1:15 PM",
+    "end_time_raw": "2:50 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 21,
+    "channel_name": "SHOWEX",
+    "program_order": 1,
+    "program_title": "Erotic Alien Encounter",
+    "start_time_raw": "12:10 PM",
+    "end_time_raw": "1:20 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 21,
+    "channel_name": "SHOWEX",
+    "program_order": 2,
+    "program_title": "The Comeback Trail",
+    "start_time_raw": "1:20 PM",
+    "end_time_raw": "3:10 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 22,
+    "channel_name": "SHOWFAM",
+    "program_order": 1,
+    "program_title": "Star Trek: Insurrection",
+    "start_time_raw": "12:00 PM",
+    "end_time_raw": "1:45 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 22,
+    "channel_name": "SHOWFAM",
+    "program_order": 2,
+    "program_title": "Orange County",
+    "start_time_raw": "1:45 PM",
+    "end_time_raw": "3:10 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 23,
+    "channel_name": "SHOWNEXT",
+    "program_order": 1,
+    "program_title": "Everybody Wants Some!!",
+    "start_time_raw": "11:35 AM",
+    "end_time_raw": "1:35 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 23,
+    "channel_name": "SHOWNEXT",
+    "program_order": 2,
+    "program_title": "Good Burger",
+    "start_time_raw": "1:35 PM",
+    "end_time_raw": "3:15 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 24,
+    "channel_name": "SHOCSE",
+    "program_order": 1,
+    "program_title": "Virtuosity",
+    "start_time_raw": "12:00 PM",
+    "end_time_raw": "1:50 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 24,
+    "channel_name": "SHOCSE",
+    "program_order": 2,
+    "program_title": "South Park: Bigger, Longer & Uncut",
+    "start_time_raw": "1:50 PM",
+    "end_time_raw": "3:15 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 25,
+    "channel_name": "SHOWWOM",
+    "program_order": 1,
+    "program_title": "Would You Rather",
+    "start_time_raw": "12:05 PM",
+    "end_time_raw": "1:40 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 25,
+    "channel_name": "SHOWWOM",
+    "program_order": 2,
+    "program_title": "All the World is Sleeping",
+    "start_time_raw": "1:40 PM",
+    "end_time_raw": "3:35 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 26,
+    "channel_name": "FLIX-E",
+    "program_order": 1,
+    "program_title": "Scream 3",
+    "start_time_raw": "12:30 PM",
+    "end_time_raw": "2:30 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 27,
+    "channel_name": "TMCEAL",
+    "program_order": 1,
+    "program_title": "Sin City: A Dame to Kill For",
+    "start_time_raw": "11:15 AM",
+    "end_time_raw": "1:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 27,
+    "channel_name": "TMCEAL",
+    "program_order": 2,
+    "program_title": "Raiders of the Lost Ark",
+    "start_time_raw": "1:00 PM",
+    "end_time_raw": "3:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 28,
+    "channel_name": "TMC2XE",
+    "program_order": 1,
+    "program_title": "The Dictator",
+    "start_time_raw": "12:00 PM",
+    "end_time_raw": "1:25 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 28,
+    "channel_name": "TMC2XE",
+    "program_order": 2,
+    "program_title": "Black Lotus",
+    "start_time_raw": "1:25 PM",
+    "end_time_raw": "3:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 29,
+    "channel_name": "STARZ",
+    "program_order": 1,
+    "program_title": "Bait",
+    "start_time_raw": "11:31 AM",
+    "end_time_raw": "1:34 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 29,
+    "channel_name": "STARZ",
+    "program_order": 2,
+    "program_title": "The Man in the White Van",
+    "start_time_raw": "1:34 PM",
+    "end_time_raw": "3:22 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 30,
+    "channel_name": "STARZCIN",
+    "program_order": 1,
+    "program_title": "Escape From Pretoria",
+    "start_time_raw": "12:20 PM",
+    "end_time_raw": "2:07 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 30,
+    "channel_name": "STARZCIN",
+    "program_order": 2,
+    "program_title": "Rememory",
+    "start_time_raw": "2:07 PM",
+    "end_time_raw": "4:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 31,
+    "channel_name": "STARZCOM",
+    "program_order": 1,
+    "program_title": "High School",
+    "start_time_raw": "12:14 PM",
+    "end_time_raw": "1:55 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 31,
+    "channel_name": "STARZCOM",
+    "program_order": 2,
+    "program_title": "Hi-Life",
+    "start_time_raw": "1:55 PM",
+    "end_time_raw": "3:22 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 32,
+    "channel_name": "STARZED",
+    "program_order": 1,
+    "program_title": "Mercenaries",
+    "start_time_raw": "11:54 AM",
+    "end_time_raw": "1:32 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 32,
+    "channel_name": "STARZED",
+    "program_order": 2,
+    "program_title": "Crave",
+    "start_time_raw": "1:32 PM",
+    "end_time_raw": "3:26 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 33,
+    "channel_name": "STARZBLK",
+    "program_order": 1,
+    "program_title": "How She Move",
+    "start_time_raw": "11:51 AM",
+    "end_time_raw": "1:23 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 33,
+    "channel_name": "STARZBLK",
+    "program_order": 2,
+    "program_title": "Dreams",
+    "start_time_raw": "1:23 PM",
+    "end_time_raw": "3:44 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 34,
+    "channel_name": "STARZFAM",
+    "program_order": 1,
+    "program_title": "The Magic of the Golden Bear: Goldy III",
+    "start_time_raw": "11:47 AM",
+    "end_time_raw": "1:33 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 34,
+    "channel_name": "STARZFAM",
+    "program_order": 2,
+    "program_title": "My Dog the Champion",
+    "start_time_raw": "1:33 PM",
+    "end_time_raw": "3:01 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 35,
+    "channel_name": "ENCORE",
+    "program_order": 1,
+    "program_title": "The Strangers: Chapter 2",
+    "start_time_raw": "11:49 AM",
+    "end_time_raw": "1:31 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 35,
+    "channel_name": "ENCORE",
+    "program_order": 2,
+    "program_title": "The Strangers: Chapter 3",
+    "start_time_raw": "1:31 PM",
+    "end_time_raw": "3:06 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 36,
+    "channel_name": "ENCORFM",
+    "program_order": 1,
+    "program_title": "Girl in Progress",
+    "start_time_raw": "12:02 PM",
+    "end_time_raw": "1:36 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 36,
+    "channel_name": "ENCORFM",
+    "program_order": 2,
+    "program_title": "Joey and Ella",
+    "start_time_raw": "1:36 PM",
+    "end_time_raw": "3:06 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 37,
+    "channel_name": "ENCORSS",
+    "program_order": 1,
+    "program_title": "Leprechaun: Origins",
+    "start_time_raw": "11:43 AM",
+    "end_time_raw": "1:15 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 37,
+    "channel_name": "ENCORSS",
+    "program_order": 2,
+    "program_title": "The Woman in Green",
+    "start_time_raw": "1:15 PM",
+    "end_time_raw": "2:24 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 37,
+    "channel_name": "ENCORSS",
+    "program_order": 3,
+    "program_title": "Transit",
+    "start_time_raw": "2:24 PM",
+    "end_time_raw": "3:53 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 38,
+    "channel_name": "ENCRACT",
+    "program_order": 1,
+    "program_title": "The Grudge 2",
+    "start_time_raw": "12:08 PM",
+    "end_time_raw": "1:51 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 38,
+    "channel_name": "ENCRACT",
+    "program_order": 2,
+    "program_title": "The Day",
+    "start_time_raw": "1:51 PM",
+    "end_time_raw": "3:16 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 39,
+    "channel_name": "ENCRBL",
+    "program_order": 1,
+    "program_title": "Malcolm X",
+    "start_time_raw": "9:39 AM",
+    "end_time_raw": "1:01 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 39,
+    "channel_name": "ENCRBL",
+    "program_order": 2,
+    "program_title": "The Hunting Party",
+    "start_time_raw": "1:01 PM",
+    "end_time_raw": "2:43 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 40,
+    "channel_name": "ENCRCL",
+    "program_order": 1,
+    "program_title": "Macbeth",
+    "start_time_raw": "12:04 PM",
+    "end_time_raw": "1:58 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 40,
+    "channel_name": "ENCRCL",
+    "program_order": 2,
+    "program_title": "Big Eyes",
+    "start_time_raw": "1:58 PM",
+    "end_time_raw": "3:45 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 41,
+    "channel_name": "ENCRWST",
+    "program_order": 1,
+    "program_title": "Billy the Kid",
+    "start_time_raw": "12:00 PM",
+    "end_time_raw": "1:21 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 41,
+    "channel_name": "ENCRWST",
+    "program_order": 2,
+    "program_title": "Shotgun",
+    "start_time_raw": "1:21 PM",
+    "end_time_raw": "2:42 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 42,
+    "channel_name": "MGM+",
+    "program_order": 1,
+    "program_title": "Changing Lanes",
+    "start_time_raw": "11:25 AM",
+    "end_time_raw": "1:05 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 42,
+    "channel_name": "MGM+",
+    "program_order": 2,
+    "program_title": "The Westies",
+    "start_time_raw": "1:05 PM",
+    "end_time_raw": "1:55 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 42,
+    "channel_name": "MGM+",
+    "program_order": 3,
+    "program_title": "A House on the Bayou",
+    "start_time_raw": "1:55 PM",
+    "end_time_raw": "3:25 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 43,
+    "channel_name": "MGM+DRV",
+    "program_order": 1,
+    "program_title": "Seabiscuit",
+    "start_time_raw": "11:00 AM",
+    "end_time_raw": "1:25 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 43,
+    "channel_name": "MGM+DRV",
+    "program_order": 2,
+    "program_title": "The Legend of Bagger Vance",
+    "start_time_raw": "1:25 PM",
+    "end_time_raw": "3:35 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 44,
+    "channel_name": "MGM+HIT",
+    "program_order": 1,
+    "program_title": "Boo! A Madea Halloween",
+    "start_time_raw": "12:20 PM",
+    "end_time_raw": "2:05 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 44,
+    "channel_name": "MGM+HIT",
+    "program_order": 2,
+    "program_title": "LaRoy, Texas",
+    "start_time_raw": "2:05 PM",
+    "end_time_raw": "4:00 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 45,
+    "channel_name": "MGM+MAR",
+    "program_order": 1,
+    "program_title": "Cujo",
+    "start_time_raw": "11:50 AM",
+    "end_time_raw": "1:25 PM",
+    "is_new": false,
+    "is_live": false
+  },
+  {
+    "channel_order": 45,
+    "channel_name": "MGM+MAR",
+    "program_order": 2,
+    "program_title": "The Keep",
+    "start_time_raw": "1:25 PM",
+    "end_time_raw": "3:05 PM",
+    "is_new": false,
+    "is_live": false
+  }
+]
